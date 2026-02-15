@@ -47,6 +47,3 @@
 ### Drills
 - **DRL-MUS-001 (10 min):** Produce 3 hook candidates + choose one with 2 checks.
 - **DRL-MUS-002 (15 min):** Write V1 + Chorus where each section has a different “job”.
-
-
-## Finance

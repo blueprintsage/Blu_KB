@@ -1,6 +1,14 @@
-<!-- PD template (Patterns & Drills) -->
+<!-- PD template (Patterns & Drills) — placeholder-safe -->
 
 # PD-<SKILL>-<SUB>-### — <Drill Title>
+
+<!-- MODULE: pd.M00 | name="Placeholder rule" -->
+## Placeholder rule
+No orphan headings. Every heading must have at least **one** non-heading line beneath it.
+
+Recommended:
+> TODO (placeholder): <what belongs here>
+<!-- /MODULE -->
 
 <!-- MODULE: pd.M01 | name="Drill Setup" -->
 ## Drill Setup

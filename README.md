@@ -121,3 +121,55 @@ Prefer **deprecate** over delete.
 <!-- /MODULE -->
 
 *Last updated:* 2026-02-15
+
+# Placeholder-safe headings patch
+
+**Why:** Stray headings (no content) don’t usually “break” anything, but they **do**:
+- confuse human readers,
+- increase retrieval ambiguity,
+- make “module scanning” less reliable.
+
+**Rule:** Every heading must contain at least one non-heading line.
+Use:
+> TODO (placeholder): <what belongs here>
+
+**Apply:**
+- Replace orphan headings in existing DPs/PDs with a TODO line.
+- Use the updated templates going forward.
+
+Generated: 2026-02-15
+
+# Orphan Heading Auto-fix Patch
+
+This patch adds a small tool to **auto-fix orphan Markdown headings** by inserting a placeholder line under each heading that has no content.
+
+## What it fixes
+A heading is considered **orphaned** if, before the next heading, the section contains only:
+- blank lines, and/or
+- HTML comments (`<!-- ... -->`)
+
+## How to use (recommended)
+From repo root:
+
+### 1) Dry-run (see what would change)
+```bash
+python tools/markdown_heading_autofix.py skills --check
+```
+
+### 2) Apply fixes (writes changes in-place)
+```bash
+python tools/markdown_heading_autofix.py skills --apply --backup
+```
+
+`--backup` writes a `.bak` file beside each modified file.
+
+## Placeholder line inserted
+Default:
+> TODO (placeholder): <fill this section>
+
+You can customize:
+```bash
+python tools/markdown_heading_autofix.py skills --apply --placeholder "> TODO: add notes/examples here"
+```
+
+Generated: 2026-02-15

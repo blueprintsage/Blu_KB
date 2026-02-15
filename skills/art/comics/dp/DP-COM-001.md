@@ -33,6 +33,3 @@
 - Action vs emotion emphasis
 
 ---
-
-
-## Game Dev

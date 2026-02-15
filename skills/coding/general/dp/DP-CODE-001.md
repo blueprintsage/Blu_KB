@@ -60,6 +60,3 @@
 ### Drills
 - **DRL-CODE-001 (10 min):** Turn a vague bug (“it crashes”) into a minimal repro + 2 checks.
 - **DRL-CODE-002 (15 min):** Add logging + input validation to an existing snippet; show one failing and one passing run.
-
-
-## Music
