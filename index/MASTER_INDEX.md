@@ -1,24 +1,25 @@
 # MASTER INDEX
 
-<!-- MODULE: index.M01 | name="Quick start" -->
 ## Quick start
 - Repo scope + rules: [`README.md`](../README.md)
 - Global conventions (canonical): [`index/Global_Conventions.md`](Global_Conventions.md)
 - Pattern library (canonical): [`index/Pattern_Library.md`](Pattern_Library.md)
 - Backlog (canonical): [`index/Backlog.md`](Backlog.md)
 - Assets catalog: [`index/ASSET_INDEX.md`](ASSET_INDEX.md)
-<!-- /MODULE -->
+- **FlavorPacks (workshop / AI↔AI packs):** [`flavorpacks/index.md`](../flavorpacks/index.md)
 
-<!-- MODULE: index.M02 | name="Skillsets" -->
 ## Skillsets
 - **Art** → [`skills/art/index.md`](../skills/art/index.md)
 - **Coding** → [`skills/coding/index.md`](../skills/coding/index.md)
 - **Finance** → [`skills/finance/index.md`](../skills/finance/index.md)
 - **Game Dev** → [`skills/gamedev/index.md`](../skills/gamedev/index.md)
 - **Writing** → [`skills/writing/index.md`](../skills/writing/index.md)
-<!-- /MODULE -->
 
-<!-- MODULE: index.M03 | name="Domain Packs (DP) — direct links" -->
+## FlavorPacks (Workshop / AI↔AI)
+- Index: [`flavorpacks/index.md`](../flavorpacks/index.md)
+- Template: [`flavorpacks/FlavorPack_Template__v1.md`](../flavorpacks/FlavorPack_Template__v1.md)
+- Art: Figure Drawing v1 → [`flavorpacks/Art/FlavorPack__Art__FigureDrawing__v1.md`](../flavorpacks/Art/FlavorPack__Art__FigureDrawing__v1.md)
+
 ## Domain Packs (DP) — direct links
 
 ### Writing
@@ -47,12 +48,9 @@
 
 ### Finance
 - [`DP-FIN-001 Finance & Econ Explainers`](../skills/finance/general/dp/DP-FIN-001.md)
-<!-- /MODULE -->
 
-<!-- MODULE: index.M04 | name="Templates" -->
 ## Templates
 - [`templates/DP_TEMPLATE.md`](../templates/DP_TEMPLATE.md)
 - [`templates/PD_TEMPLATE.md`](../templates/PD_TEMPLATE.md)
 - [`templates/ASSET_SIDECAR_TEMPLATE.yml`](../templates/ASSET_SIDECAR_TEMPLATE.yml)
 - [`templates/STORYBOARD_TEMPLATE.md`](../templates/STORYBOARD_TEMPLATE.md)
-<!-- /MODULE -->
