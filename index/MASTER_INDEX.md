@@ -6,7 +6,8 @@
 - Pattern library (canonical): [`index/Pattern_Library.md`](Pattern_Library.md)
 - Backlog (canonical): [`index/Backlog.md`](Backlog.md)
 - Assets catalog: [`index/ASSET_INDEX.md`](ASSET_INDEX.md)
-- **Fundamentals (workshop / AI↔AI packs):** [`Fundamentals/index.md`](../Fundamentals/index.md)
+- **Fundamentals (workshop / AI↔AI):** Stored per-skill at `skills/<skill>/fundamentals/` (start here: [`skills/art/fundamentals/index.md`](../skills/art/fundamentals/index.md))
+
 
 ## Skillsets
 - **Art** → [`skills/art/index.md`](../skills/art/index.md)
@@ -15,10 +16,10 @@
 - **Game Dev** → [`skills/gamedev/index.md`](../skills/gamedev/index.md)
 - **Writing** → [`skills/writing/index.md`](../skills/writing/index.md)
 
-## Fundamentals (Workshop / AI↔AI)
-- Index: [`Fundamentals/index.md`](../Fundamentals/index.md)
-- Template: [`Fundamentals/Fundamental_Template__v1.md`](../Fundamentals/Fundamental_Template__v1.md)
-- Art: Figure Drawing v1 → [`Fundamentals/Art/Fundamental__Art__FigureDrawing__v1.md`](../Fundamentals/Art/Fundamental__Art__FigureDrawing__v1.md)
+## Fundamentals
+- **Rule:** Fundamentals live under each skillset at `skills/<skill>/fundamentals/`
+- Art Fundamentals index → [`skills/art/fundamentals/index.md`](../skills/art/fundamentals/index.md)
+- Fundamentals template → [`templates/Fundamentals_Template__v1.md`](../templates/Fundamentals_Template__v1.md)
 
 ## Domain Packs (DP) — direct links
 
@@ -42,6 +43,8 @@
 - [`DP-VIS-002 Image Enhancement & Hyper-Real Edits`](../skills/art/image_gen/dp/DP-VIS-002.md)
 - [`DP-VID-001 Video Preproduction`](../skills/art/video_gen/dp/DP-VID-001.md)
 - [`DP-VID-002 Text-to-Video Prompting & Iteration`](../skills/art/video_gen/dp/DP-VID-002.md)
+- [`DP-ART-FIG-001 Figure Drawing (Application Pack) — Uses Fundamentals: Drawing`](../skills/art/fundamentals/DP-ART-FIG-001.md)
+- [`DP-ART-FUND-001 Fundamentals: Drawing (Stick → Block → Rough → Final)`](../skills/art/fundamentals/DP-ART-FUND-001.md)
 
 ### Coding
 - [`DP-CODE-001 Code Development`](../skills/coding/general/dp/DP-CODE-001.md)
@@ -54,3 +57,5 @@
 - [`templates/PD_TEMPLATE.md`](../templates/PD_TEMPLATE.md)
 - [`templates/ASSET_SIDECAR_TEMPLATE.yml`](../templates/ASSET_SIDECAR_TEMPLATE.yml)
 - [`templates/STORYBOARD_TEMPLATE.md`](../templates/STORYBOARD_TEMPLATE.md)
+- [`templates/FUNDAMENTALS_TEMPLATE.md`](../templates/FUNDAMENTALS_TEMPLATE.md)
+

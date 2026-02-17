@@ -10,7 +10,7 @@ notes:
   - "Keep OS rules (safety/OPSEC/verification) in Knowledge; fundamentals packs are presentation + drills + checks."
 ---
 
-# Fundamentals Template (v1)
+# Fundamentals Template
 
 ## 0) Identity
 - **Domain:** <Art | Code | Cooking | Writing | ...>
