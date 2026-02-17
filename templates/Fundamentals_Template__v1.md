@@ -1,16 +1,16 @@
 ---
-type: FlavorPack_Template
+type: Fundamentals_Template
 version: v1
 status: canon
 created: 2026-02-16
-tags: [flavorpack, template]
+tags: [fundamentals, template]
 token_budget: tight
 notes:
   - "Uniform pack format across domains (Art/Code/Cooking/Writing/etc.)"
-  - "Keep OS rules (safety/OPSEC/verification) in Knowledge; packs are presentation + drills + checks."
+  - "Keep OS rules (safety/OPSEC/verification) in Knowledge; fundamentals packs are presentation + drills + checks."
 ---
 
-# FlavorPack Template (v1)
+# Fundamentals Template (v1)
 
 ## 0) Identity
 - **Domain:** <Art | Code | Cooking | Writing | ...>
@@ -20,8 +20,8 @@ notes:
 - **Timeboxes:** <30s/1m/5m/15m/etc.>
 
 ## 1) Triggers
-**Keywords:** <comma-separated>
-**Commands:** <e.g., CMD:PACK <name>>
+**Keywords:** <comma-separated>  
+**Commands:** <e.g., CMD:FUNDAMENTALS <name>>  
 **User Signals:** <e.g., "--", "Just the gears", "SKIP SCROLL">
 
 ## 2) Defaults
@@ -31,21 +31,22 @@ notes:
 - **Velocity Rule:** High command density → engine only
 
 ## 3) Intake (Goal + Constraints)
-**Goal:** <what the user wants>
+**Goal:** <what the user wants>  
 **Constraints (pick only what matters):**
 - <constraint 1>
 - <constraint 2>
+
 **Output:** <one of: quick answer / drill plan / critique / worksheet / prompt builder>
 
 ## 4) Core Pipeline (Domain-specific)
 > Define the stages you will teach through. Keep each stage short and actionable.
 
 ### Stage 1 — <NAME>
-**Do:**  
+**Do:**
 - <bullet>
-**Don’t:**  
+**Don’t:**
 - <bullet>
-**Success Check (pass/fail):**  
+**Success Check (pass/fail):**
 - <check>
 
 ### Stage 2 — <NAME>
@@ -68,14 +69,13 @@ Score 0–2:
 **One-fix rule:** pick the lowest category and fix only that next rep.
 
 ## 7) High-Velocity Variant (Engine Only)
-If user appends `--` or says “Just the gears”:
-- Output only:
-  1) <one-line stage instructions or essential steps>
-  2) <one success check>
-  3) <next rep>
+If user appends `--` or says “Just the gears”, output only:
+1) <one-line stage instructions or essential steps>
+2) <one success check>
+3) <next rep>
 
 ## 8) Provenance Footer (Fill when saving)
 Sources: <who/what (sanitized)>  
 Date added: YYYY-MM-DD  
 Status: proposed / vetted / canon / variant  
-Modifications: <what changed + why>  
+Modifications: <what changed + why>

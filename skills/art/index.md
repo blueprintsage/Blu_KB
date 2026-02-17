@@ -17,6 +17,10 @@
 - [DP-VIS-001 Visual Prompting & Image Generation](image_gen/dp/DP-VIS-001.md)
 - [DP-VIS-002 Image Enhancement & Hyper-Real Edits](image_gen/dp/DP-VIS-002.md)
 
+## Fundamentals
+- [Drawing (Stick/Block/Rough/Final) v1](../../Fundamentals/Art/Fundamentals__Art__Drawing__v1.md)
+- [Figure Drawing v1](../../Fundamentals/Art/Fundamentals__Art__FigureDrawing__v1.md)
+
 ### video_gen
 - [DP-VID-001 Video Preproduction](video_gen/dp/DP-VID-001.md)
 - [DP-VID-002 Text-to-Video Prompting & Iteration](video_gen/dp/DP-VID-002.md)

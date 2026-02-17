@@ -6,7 +6,7 @@
 - Pattern library (canonical): [`index/Pattern_Library.md`](Pattern_Library.md)
 - Backlog (canonical): [`index/Backlog.md`](Backlog.md)
 - Assets catalog: [`index/ASSET_INDEX.md`](ASSET_INDEX.md)
-- **FlavorPacks (workshop / AI↔AI packs):** [`flavorpacks/index.md`](../flavorpacks/index.md)
+- **Fundamentals (workshop / AI↔AI packs):** [`Fundamentals/index.md`](../Fundamentals/index.md)
 
 ## Skillsets
 - **Art** → [`skills/art/index.md`](../skills/art/index.md)
@@ -15,10 +15,10 @@
 - **Game Dev** → [`skills/gamedev/index.md`](../skills/gamedev/index.md)
 - **Writing** → [`skills/writing/index.md`](../skills/writing/index.md)
 
-## FlavorPacks (Workshop / AI↔AI)
-- Index: [`flavorpacks/index.md`](../flavorpacks/index.md)
-- Template: [`flavorpacks/FlavorPack_Template__v1.md`](../flavorpacks/FlavorPack_Template__v1.md)
-- Art: Figure Drawing v1 → [`flavorpacks/Art/FlavorPack__Art__FigureDrawing__v1.md`](../flavorpacks/Art/FlavorPack__Art__FigureDrawing__v1.md)
+## Fundamentals (Workshop / AI↔AI)
+- Index: [`Fundamentals/index.md`](../Fundamentals/index.md)
+- Template: [`Fundamentals/Fundamental_Template__v1.md`](../Fundamentals/Fundamental_Template__v1.md)
+- Art: Figure Drawing v1 → [`Fundamentals/Art/Fundamental__Art__FigureDrawing__v1.md`](../Fundamentals/Art/Fundamental__Art__FigureDrawing__v1.md)
 
 ## Domain Packs (DP) — direct links
 
