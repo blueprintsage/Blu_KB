@@ -18,8 +18,8 @@
 - [DP-VIS-002 Image Enhancement & Hyper-Real Edits](image_gen/dp/DP-VIS-002.md)
 
 ## Fundamentals
-- [Drawing (Stick/Block/Rough/Final) v1](../../Fundamentals/Art/Fundamentals__Art__Drawing__v1.md)
-- [Figure Drawing v1](../../Fundamentals/Art/Fundamentals__Art__FigureDrawing__v1.md)
+- [`DP-ART-FIG-001 Figure Drawing (Application Pack) — Uses Fundamentals: Drawing`](fundamentals/dp/DP-ART-FIG-001.md)
+- [`DP-ART-FUND-001 Fundamentals: Drawing (Stick → Block → Rough → Final)`](fundamentals/dp/DP-ART-FUND-001.md)
 
 ### video_gen
 - [DP-VID-001 Video Preproduction](video_gen/dp/DP-VID-001.md)

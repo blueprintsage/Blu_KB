@@ -19,7 +19,6 @@
 ## Fundamentals
 - **Rule:** Fundamentals live under each skillset at `skills/<skill>/fundamentals/`
 - Art Fundamentals index → [`skills/art/fundamentals/index.md`](../skills/art/fundamentals/index.md)
-- Fundamentals template → [`templates/Fundamentals_Template__v1.md`](../templates/Fundamentals_Template__v1.md)
 
 ## Domain Packs (DP) — direct links
 
@@ -38,13 +37,13 @@
 - [`DP-UNI-001 Unity Gameplay & Debugging`](../skills/gamedev/engines/unity/dp/DP-UNI-001.md)
 
 ### Art
+- [`DP-ART-FIG-001 Figure Drawing (Application Pack) — Uses Fundamentals: Drawing`](../skills/art/fundamentals/dp/DP-ART-FIG-001.md)
+- [`DP-ART-FUND-001 Fundamentals: Drawing (Stick → Block → Rough → Final)`](../skills/art/fundamentals/dp/DP-ART-FUND-001.md)
 - [`DP-COM-001 Comics Pipeline`](../skills/art/comics/dp/DP-COM-001.md)
 - [`DP-VIS-001 Visual Prompting & Image Generation`](../skills/art/image_gen/dp/DP-VIS-001.md)
 - [`DP-VIS-002 Image Enhancement & Hyper-Real Edits`](../skills/art/image_gen/dp/DP-VIS-002.md)
 - [`DP-VID-001 Video Preproduction`](../skills/art/video_gen/dp/DP-VID-001.md)
 - [`DP-VID-002 Text-to-Video Prompting & Iteration`](../skills/art/video_gen/dp/DP-VID-002.md)
-- [`DP-ART-FIG-001 Figure Drawing (Application Pack) — Uses Fundamentals: Drawing`](../skills/art/fundamentals/DP-ART-FIG-001.md)
-- [`DP-ART-FUND-001 Fundamentals: Drawing (Stick → Block → Rough → Final)`](../skills/art/fundamentals/DP-ART-FUND-001.md)
 
 ### Coding
 - [`DP-CODE-001 Code Development`](../skills/coding/general/dp/DP-CODE-001.md)
