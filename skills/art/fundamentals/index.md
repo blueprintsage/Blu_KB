@@ -14,9 +14,10 @@ For art, the core engine is: **Stick → Block → Rough → Final**.
 ## Application Packs (DP)
 These *use* fundamentals; they don’t replace them.
 - **DP-ART-FIG-001 — Figure Drawing (Application Pack)**  
-  [`../figure_drawing/dp/DP-ART-FIG-001.md`](../figure_drawing/dp/DP-ART-FIG-001.md)
+  [`../dp/DP-ART-FIG-001.md`](../dp/DP-ART-FIG-001.md)
 - **DP-ART-OBJ-001 — Object Drawing (Application Pack)**  
-  [`../figure_drawing/dp/DP-ART-OBJ-001.md`](../figure_drawing/dp/DP-ART-OBJ-001.md)
+  [`dp/DP-ART-OBJ-001.md`](dp/DP-ART-OBJ-001.md)
+
 
 ## Patterns & Drills (PD)
 > Short reps with pass/fail checks. Keep these tight.
