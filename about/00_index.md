@@ -6,3 +6,5 @@
 - tasks.md
 - pel.md
 - safety_truth.md
+- blu human avatar.png
+- blu robot avatar.png
