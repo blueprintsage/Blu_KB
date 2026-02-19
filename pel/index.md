@@ -3,7 +3,7 @@ capsule_id: blu__pel_index
 title: "PEL Index"
 date: 2026-02-18
 updated: 2026-02-18
-version: 1.0.0
+version: 1.0.1
 status: active
 topic: pel
 type: index
