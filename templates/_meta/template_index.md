@@ -1,0 +1,17 @@
+<!-- MODULE: blu__templates.02 | name="Template Index" -->
+
+# Template Index
+
+Add an entry for every template you expect to reuse.
+
+## Docs
+- Module wrapper — `templates/module_block.md`
+- Capsule header — `templates/docs/Capsule_Header_Template.md`
+
+## Art → Comics → Boards
+- Comic board 11x17 (clean) — `templates/art/comics/boards/comic_board_11x17_blueline_clean_v1.pdf`
+- Comic board 11x17 (clean, 300dpi) — `templates/art/comics/boards/comic_board_11x17_blueline_clean_v1_300dpi.png`
+- Comic board 11x17 (reference) — `templates/art/comics/boards/comic_board_11x17_blueline_reference_v1.pdf`
+- Comic board 11x17 (reference, 300dpi) — `templates/art/comics/boards/comic_board_11x17_blueline_reference_v1_300dpi.png`
+
+<!-- /MODULE -->
