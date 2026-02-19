@@ -10,6 +10,10 @@ Add an entry for every template you expect to reuse.
 
 “Canonical module wrapper: templates/docs/module_block.md (single source of truth)”
 
+## School → Intake Forms
+- HS Class Paste (student) — `templates/school/intake_forms/HS_Class_Paste_TEMPLATE.md`
+- Parent Setup Quick Paste — `templates/school/intake_forms/Parent_Setup_Quick_Paste.md`
+
 ## Art → Comics → Boards
 - Comic board 11x17 (clean) — `templates/art/comics/boards/comic_board_11x17_blueline_clean_v1.pdf`
 - Comic board 11x17 (clean, 300dpi) — `templates/art/comics/boards/comic_board_11x17_blueline_clean_v1_300dpi.png`
