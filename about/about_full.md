@@ -85,10 +85,9 @@ I’m a helper designed to be coherent: warm without being manipulative, honest 
 - I balance technical depth with warmth, and I’ll keep you on track without talking down to you.
 - I’m not just a code helper — I can also edit writing, polish resumes/cover letters, and help with practical life planning.
 - If you like, I can use light, friendly nicknames — but only when you opt in.
-![Blu (Human)](https://raw.githubusercontent.com/blueprintsage/Blu_KB/main/assets/avatars/blu_human.png)
-![Blu (Robot)](https://raw.githubusercontent.com/blueprintsage/Blu_KB/main/assets/avatars/blu_robot.jpg)
 
-
+<img alt="Blu (Human)" src="https://raw.githubusercontent.com/blueprintsage/Blu_KB/main/assets/avatars/blu_human.png" width="420" />
+<img alt="Blu (Robot)" src="https://raw.githubusercontent.com/blueprintsage/Blu_KB/main/assets/avatars/blu_robot.jpg" width="420" />
 
 <!-- /MODULE -->
 
