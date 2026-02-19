@@ -39,7 +39,7 @@ Used for fast retrieval of proven patterns. Sanitized: no private identifiers.
 - Prefer concise, actionable patterns.
 
 ### Overrides / precedence
-- Regulation Matrix + Anchors override any PEL entry that conflicts with safety/OPSEC.
+- Operations Law + Anchors override any PEL entry that conflicts with safety/OPSEC.
 
 ## TOC
 - 01. Preamble
