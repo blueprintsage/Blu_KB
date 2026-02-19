@@ -24,8 +24,10 @@ templates/
       boards/
 
 ## Key templates
-- Module wrapper — `templates/module_block.md`
+- Module wrapper — `templates/docs/module_block.md`
 - Capsule header — `templates/docs/Capsule_Header_Template.md`
 - Comic boards — `templates/art/comics/boards/`
 
 <!-- /MODULE -->
+
+Note: If raw.githubusercontent.com appears stale, use GitHub UI or add a cache-bust query (?v=<commit>).

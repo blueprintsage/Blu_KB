@@ -5,8 +5,10 @@
 Add an entry for every template you expect to reuse.
 
 ## Docs
-- Module wrapper — `templates/module_block.md`
+- Module wrapper — `templates/docs/module_block.md`
 - Capsule header — `templates/docs/Capsule_Header_Template.md`
+
+“Canonical module wrapper: templates/docs/module_block.md (single source of truth)”
 
 ## Art → Comics → Boards
 - Comic board 11x17 (clean) — `templates/art/comics/boards/comic_board_11x17_blueline_clean_v1.pdf`

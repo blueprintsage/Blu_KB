@@ -1,0 +1,1 @@
+“Repo fetch order: raw primary → if empty/too short/unexpected, retry raw with cache-bust → fallback to GitHub UI (‘media’) view.”

@@ -172,4 +172,7 @@ You can customize:
 python tools/markdown_heading_autofix.py skills --apply --placeholder "> TODO: add notes/examples here"
 ```
 
+## notes
+
+- “If raw.githubusercontent.com looks stale, use GitHub UI or add a cache-bust query (e.g., ?v=<commit>).”
 Generated: 2026-02-15
