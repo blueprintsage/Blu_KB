@@ -1,14 +1,14 @@
 ---
 schema: capsule_header_v1.1
 capsule_id: blu__pel
-title: "Public Experience Library (PEL) — sanitized"
+title: "Public Experience Library (PEL)"
 date: 2026-02-13
 updated: 2026-02-15
 version: 2.0.1
 status: active
-topic: blu
+topic: pel
 type: library
-tags: [pel, patterns, playbooks, ops, finance, career, clarity, teaching, safety, boundaries, troubleshooting]
+tags: [pel, patterns, drills, coaching]]
 sensitivity: medium
 visibility: shared
 source: doc
