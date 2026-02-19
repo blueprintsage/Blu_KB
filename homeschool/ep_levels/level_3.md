@@ -12,25 +12,36 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 
 ## Canon links
 - Overview (levels model): https://allinonehomeschool.com/overview/
+- Start Today (choose Level + Theme): https://allinonehomeschool.com/start-today/
+- Themes explainer: https://allinonehomeschool.com/history-and-science-themes/
 - Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
 
-## What to put here
-- Recommended “core set” for Level 3 (links only)
-- Notes for parents (how to run the day with SCHOOL mode)
-- Optional substitutions (Reading/LA split, electives)
+## Core (recommended for Level 3)
+### Math
+- EP Math 3: https://allinonehomeschool.com/ep-math-3/
 
-## Placeholder structure
-### Core
-- Math: <link>
-- Language Arts: <link>
-- Reading: <link>
-- History: <link>
-- Science: <link>
+### Language Arts
+- Language Arts 3: https://allinonehomeschool.com/language-arts-3/
 
-### Extras / electives
-- Art: <link>
-- Music: <link>
-- Computer: <link>
+### Reading
+- Reading 3: https://allinonehomeschool.com/reading-3/
+- Reading placement guide (optional): https://allinonehomeschool.com/reading-placement-guide/
 
-### Notes
-- Daily lesson pages are usually organized by Day # (e.g., Day 1–180).
+### History (Theme — shared “Levels 1–4”)
+Choose **one** theme for the year (all kids can study the same topic; lessons differ by level).
+- Ancient: https://allinonehomeschool.com/history-year-1/
+- Early American: https://allinonehomeschool.com/early-american-history/
+- Geography & Cultures: https://allinonehomeschool.com/geography-and-cultures/
+- Modern: https://allinonehomeschool.com/history-year-4/
+
+### Science (Theme — shared “Levels 1–4”)
+Typically paired with the theme approach for Levels 1–8.
+- Biology: https://allinonehomeschool.com/science-year-1/
+- Zoology: https://allinonehomeschool.com/zoology/
+- Earth Science: https://allinonehomeschool.com/science-earth-science/
+- Physics/Chemistry: https://allinonehomeschool.com/science-year-4/
+
+## Notes (for SCHOOL mode)
+- Math/LA/Reading are level-specific.
+- History/Science are **Theme (Levels 1–4)**: pick one theme; use it across siblings if you want.
+- During class: student pastes the day’s assignment text/link into Blu; Blu guides + grades.

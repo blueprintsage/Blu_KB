@@ -10,14 +10,15 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## Canon link (directory)
-- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
+## EP (Homeschool) — Themes
+- Themes explainer: https://allinonehomeschool.com/history-and-science-themes/
+- Biology: https://allinonehomeschool.com/science-year-1/
+- Zoology: https://allinonehomeschool.com/zoology/
+- Earth Science: https://allinonehomeschool.com/science-earth-science/
+- Physics/Chemistry: https://allinonehomeschool.com/science-year-4/
 
-## What to put here
-- Course links for Science (EP + HS where applicable)
-- Level/grade notes (if known)
-- “Paste lesson text/link into CLASS:START” reminder
+## HS (All-in-One High School)
+- HS course list (Science section): https://allinonehighschool.com/full-curriculum/
 
-## Placeholder list
-- EP: <course link>
-- HS: <course link>
+## Use in SCHOOL mode
+- Paste today’s assignment text/link into `CLASS:START Science`.

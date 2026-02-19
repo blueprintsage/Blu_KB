@@ -10,14 +10,17 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## Canon link (directory)
-- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
+## EP (Homeschool)
+- Where’s English? (Reading + Language Arts split; English 8 moved to HS): https://allinonehomeschool.com/individual-courses-of-study/wheres-english/
+- Language Arts placement guide: https://allinonehomeschool.com/language-arts-placement-guide/
+- Language Arts 5: https://allinonehomeschool.com/language-arts-5-2/
+- Language Arts 6: https://allinonehomeschool.com/language-arts-6/
+- Language Arts 7: https://allinonehomeschool.com/language-arts-7/
+- Intermediate Language Arts (bridge if needed): https://allinonehomeschool.com/individual-courses-of-study/intermediate-language-arts/
 
-## What to put here
-- Course links for Language Arts (EP + HS where applicable)
-- Level/grade notes (if known)
-- “Paste lesson text/link into CLASS:START” reminder
+## HS (All-in-One High School)
+- English hub (recommended order): https://allinonehighschool.com/full-curriculum/english/
+- Literature & Composition I (English 8 / 9th): https://allinonehighschool.com/litandcomp1/
 
-## Placeholder list
-- EP: <course link>
-- HS: <course link>
+## Use in SCHOOL mode
+- Paste today’s assignment text/link into `CLASS:START Language Arts`.

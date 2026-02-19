@@ -11,17 +11,30 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 
 
 ## Canon links
-- Full Curriculum: https://allinonehighschool.com/full-curriculum/
-- Courses (main): https://allinonehighschool.com/
+- High School Full Curriculum (recommended order by subject): https://allinonehighschool.com/full-curriculum/
+- English hub: https://allinonehighschool.com/full-curriculum/english/
 
-## Buckets (recommended)
-- English / Literature
-- Math
-- Science
-- History / Social Studies
-- World Languages
-- Electives
+## Recommended buckets (links only)
+### English / Literature
+- Literature & Composition I (8th/9th): https://allinonehighschool.com/litandcomp1/
+- English hub (order + notes): https://allinonehighschool.com/full-curriculum/english/
 
-## What to put here
-- Grade 9–12 recommended sequences (links only)
-- Notes on where “Day” pages live
+### History / Social Studies
+- HS course list (History section): https://allinonehighschool.com/full-curriculum/
+
+### Math
+- HS course list (Math section): https://allinonehighschool.com/full-curriculum/
+
+### Science
+- HS course list (Science section): https://allinonehighschool.com/full-curriculum/
+
+### World Languages
+- Spanish 1: https://allinonehighschool.com/spanish-1-2018/
+- HS course list (Humanities / Spanish): https://allinonehighschool.com/full-curriculum/
+
+### Electives
+- HS course list (Humanities / Computer / Electives sections): https://allinonehighschool.com/full-curriculum/
+
+## Notes (for SCHOOL mode)
+- HS courses are typically organized as 180 lessons/assignments.
+- Student pastes the day’s lesson text/link into Blu; Blu guides + checks + grades; then prints an end-of-class summary.

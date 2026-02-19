@@ -12,25 +12,39 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 
 ## Canon links
 - Overview (levels model): https://allinonehomeschool.com/overview/
+- Start Today (choose Level + Theme): https://allinonehomeschool.com/start-today/
+- Themes explainer: https://allinonehomeschool.com/history-and-science-themes/
 - Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
 
-## What to put here
-- Recommended “core set” for Level 8 (links only)
-- Notes for parents (how to run the day with SCHOOL mode)
-- Optional substitutions (Reading/LA split, electives)
+## Core (recommended for Level 8)
+### Math
+- Pre-Algebra (typical): https://allinonehomeschool.com/step-3-2020-update/
+- Algebra 1 (if ready): https://allinonehomeschool.com/algebra-1/
 
-## Placeholder structure
-### Core
-- Math: <link>
-- Language Arts: <link>
-- Reading: <link>
-- History: <link>
-- Science: <link>
+### Language Arts
+- English 8 (Lit & Comp I on HS site): https://allinonehighschool.com/litandcomp1/
+- HS English hub (recommended order): https://allinonehighschool.com/full-curriculum/english/
 
-### Extras / electives
-- Art: <link>
-- Music: <link>
-- Computer: <link>
+### Reading
+- Reading 7 (if finishing EP sequence): https://allinonehomeschool.com/reading-7/
+- Intermediate Reading (bridge if needed): https://allinonehomeschool.com/individual-courses-of-study/intermediate-reading/
+- Reading placement guide (optional): https://allinonehomeschool.com/reading-placement-guide/
 
-### Notes
-- Daily lesson pages are usually organized by Day # (e.g., Day 1–180).
+### History (Theme — shared by level bands)
+Pick one theme for the year (can be shared across siblings).
+- Ancient: https://allinonehomeschool.com/history-year-1/
+- Early American: https://allinonehomeschool.com/early-american-history/
+- Geography & Cultures: https://allinonehomeschool.com/geography-and-cultures/
+- Modern: https://allinonehomeschool.com/history-year-4/
+
+### Science (Theme — shared by level bands)
+- Biology: https://allinonehomeschool.com/science-year-1/
+- Zoology: https://allinonehomeschool.com/zoology/
+- Earth Science: https://allinonehomeschool.com/science-earth-science/
+- Physics/Chemistry: https://allinonehomeschool.com/science-year-4/
+
+## Notes (for SCHOOL mode)
+- Math/LA/Reading are level-specific.
+- History/Science are Theme-based (see Themes explainer above).
+- Note: EP explains English 8 lives on the High School site (Lit & Comp I).
+

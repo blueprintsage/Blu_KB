@@ -10,14 +10,15 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## Canon link (directory)
-- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
+## EP (Homeschool) — canon hubs
+- EP Math hub (lists EP Math 1–5/6 + 6/7 + Pre-Algebra + Algebra 1): https://allinonehomeschool.com/ep-math/
+- EP Math 5/6: https://allinonehomeschool.com/ep-math-5-6/
+- Math 6/7: https://allinonehomeschool.com/step2-2019/
+- Pre-Algebra: https://allinonehomeschool.com/step-3-2020-update/
+- Algebra 1: https://allinonehomeschool.com/algebra-1/
 
-## What to put here
-- Course links for Math (EP + HS where applicable)
-- Level/grade notes (if known)
-- “Paste lesson text/link into CLASS:START” reminder
+## HS (All-in-One High School)
+- HS Math list (includes Algebra 1/Geometry/Algebra 2 etc.): https://allinonehighschool.com/full-curriculum/
 
-## Placeholder list
-- EP: <course link>
-- HS: <course link>
+## Use in SCHOOL mode
+- Paste today’s assignment text/link into `CLASS:START Math`.

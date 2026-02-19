@@ -10,14 +10,16 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## Canon link (directory)
-- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
+## EP (Homeschool)
+- Reading placement guide: https://allinonehomeschool.com/reading-placement-guide/
+- Reading 5: https://allinonehomeschool.com/reading-5/
+- Reading 6: https://allinonehomeschool.com/reading-6/
+- Reading 7: https://allinonehomeschool.com/reading-7/
+- Intermediate Reading (bridge): https://allinonehomeschool.com/individual-courses-of-study/intermediate-reading/
 
-## What to put here
-- Course links for Reading (EP + HS where applicable)
-- Level/grade notes (if known)
-- “Paste lesson text/link into CLASS:START” reminder
+## HS (All-in-One High School)
+- English hub: https://allinonehighschool.com/full-curriculum/english/
+- Literature & Composition I: https://allinonehighschool.com/litandcomp1/
 
-## Placeholder list
-- EP: <course link>
-- HS: <course link>
+## Use in SCHOOL mode
+- Paste today’s assignment text/link into `CLASS:START Reading` (or HS English).

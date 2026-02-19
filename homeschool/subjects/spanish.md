@@ -10,14 +10,18 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## Canon link (directory)
-- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
+## EP (Homeschool)
+- World Languages hub (Spanish list): https://allinonehomeschool.com/foreign-languages/
+- Spanish 6 (middle school): https://allinonehomeschool.com/spanish-6/
+- Spanish 7 (middle school): https://allinonehomeschool.com/spanish-7/
+- EP Spanish 1 (8th level): https://allinonehomeschool.com/spanish-1/
+- EP Spanish 2: https://allinonehomeschool.com/spanish-2/
+- EP Spanish 3: https://allinonehomeschool.com/spanish-3/
+- EP Spanish 4: https://allinonehomeschool.com/spanish-4/
 
-## What to put here
-- Course links for Spanish (EP + HS where applicable)
-- Level/grade notes (if known)
-- “Paste lesson text/link into CLASS:START” reminder
+## HS (All-in-One High School)
+- Spanish 1: https://allinonehighschool.com/spanish-1-2018/
+- HS course list (Humanities / Spanish): https://allinonehighschool.com/full-curriculum/
 
-## Placeholder list
-- EP: <course link>
-- HS: <course link>
+## Use in SCHOOL mode
+- Paste today’s assignment text/link into `CLASS:START Spanish`.
