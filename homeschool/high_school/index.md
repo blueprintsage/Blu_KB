@@ -1,4 +1,4 @@
-# Homeschool Docs
+# All-in-One High School — Index
 
 ### Credit / Source
 This homeschool map is derived from publicly available course pages and directories on **All-in-One Homeschool** (Easy Peasy All-in-One Homeschool) and **All-in-One High School**. All course content, lesson structure, and original materials remain the property of their respective owners. This repo provides **links and organizational indexing only** for navigation and planning.
@@ -10,10 +10,18 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## What’s in this folder
-- Setup/how-to docs for using Blu as an “AI assistant teacher” with external curricula.
-- Policies for attribution, donations, and legal notes.
+## Canon links
+- Full Curriculum: https://allinonehighschool.com/full-curriculum/
+- Courses (main): https://allinonehighschool.com/
 
-## Recommended next docs to add
-- What SCHOOL Mode Does (Parent Explanation)
-- School Setup Wizard (Homeschool Teacher Mode)
+## Buckets (recommended)
+- English / Literature
+- Math
+- Science
+- History / Social Studies
+- World Languages
+- Electives
+
+## What to put here
+- Grade 9–12 recommended sequences (links only)
+- Notes on where “Day” pages live

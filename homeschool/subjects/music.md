@@ -1,4 +1,4 @@
-# Homeschool Docs
+# Music — Index
 
 ### Credit / Source
 This homeschool map is derived from publicly available course pages and directories on **All-in-One Homeschool** (Easy Peasy All-in-One Homeschool) and **All-in-One High School**. All course content, lesson structure, and original materials remain the property of their respective owners. This repo provides **links and organizational indexing only** for navigation and planning.
@@ -10,10 +10,14 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## What’s in this folder
-- Setup/how-to docs for using Blu as an “AI assistant teacher” with external curricula.
-- Policies for attribution, donations, and legal notes.
+## Canon link (directory)
+- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
 
-## Recommended next docs to add
-- What SCHOOL Mode Does (Parent Explanation)
-- School Setup Wizard (Homeschool Teacher Mode)
+## What to put here
+- Course links for Music (EP + HS where applicable)
+- Level/grade notes (if known)
+- “Paste lesson text/link into CLASS:START” reminder
+
+## Placeholder list
+- EP: <course link>
+- HS: <course link>

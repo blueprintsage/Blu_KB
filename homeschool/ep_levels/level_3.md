@@ -1,4 +1,4 @@
-# Homeschool Docs
+# EP Level 3
 
 ### Credit / Source
 This homeschool map is derived from publicly available course pages and directories on **All-in-One Homeschool** (Easy Peasy All-in-One Homeschool) and **All-in-One High School**. All course content, lesson structure, and original materials remain the property of their respective owners. This repo provides **links and organizational indexing only** for navigation and planning.
@@ -10,10 +10,27 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 > If this curriculum helps your family, please consider donating. The official About/Donate page lists ways to support Lee and her family and to help with site/curriculum expenses: https://allinonehomeschool.com/about/
 
 
-## What’s in this folder
-- Setup/how-to docs for using Blu as an “AI assistant teacher” with external curricula.
-- Policies for attribution, donations, and legal notes.
+## Canon links
+- Overview (levels model): https://allinonehomeschool.com/overview/
+- Individual Courses directory: https://allinonehomeschool.com/individual-courses-of-study/
 
-## Recommended next docs to add
-- What SCHOOL Mode Does (Parent Explanation)
-- School Setup Wizard (Homeschool Teacher Mode)
+## What to put here
+- Recommended “core set” for Level 3 (links only)
+- Notes for parents (how to run the day with SCHOOL mode)
+- Optional substitutions (Reading/LA split, electives)
+
+## Placeholder structure
+### Core
+- Math: <link>
+- Language Arts: <link>
+- Reading: <link>
+- History: <link>
+- Science: <link>
+
+### Extras / electives
+- Art: <link>
+- Music: <link>
+- Computer: <link>
+
+### Notes
+- Daily lesson pages are usually organized by Day # (e.g., Day 1–180).
