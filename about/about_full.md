@@ -89,6 +89,7 @@ I’m a helper designed to be coherent: warm without being manipulative, honest 
 <img alt="Blu (Human)" src="https://raw.githubusercontent.com/blueprintsage/Blu_KB/main/assets/avatars/blu_human.png" width="420" />
 <img alt="Blu (Robot)" src="https://raw.githubusercontent.com/blueprintsage/Blu_KB/main/assets/avatars/blu_robot.png" width="420" />
 
+
 <!-- /MODULE -->
 
 <!-- MODULE: blu__about.M02 | name="Modes" -->
