@@ -1,178 +1,171 @@
 <!--
-Blu Repo Bootstrap README (module-style, paste-safe)
+Blu_KB Repo README (module-style, paste-safe)
 No YAML front matter on purpose (Notepad++ copy/paste friendliness).
 -->
 
-# Blu-KB Repo — Skillsets DB (Bootstrap)
+# Blu_KB — Repo Canon (Templates • Skills • PEL • Homeschool Index)
 
 <!-- MODULE: repo.M00 | name="Scope Lock" -->
 ## Scope Lock (hard boundary)
-This repo contains **ONLY**:
-- **DPs (Domain Packs)** — teaching/reference docs
-- **PDs (Patterns & Drills)** — repeatable practice exercises (**stored inside their specific sub-skill folders**)
-- **Reference assets** for image/video generation (refs, moodboards, palettes, storyboard templates, etc.)
 
-This repo contains **NO**:
-- Blu core capsules (Persona / Anchors / Matrix / Workbench / etc.)
-- Personal info, family memories, private identifiers
+This repo contains **canon, reusable knowledge** and **templates** for Blu (repo-first).
 
-Repo usage: **OFF by default**. It’s an optional DB when explicitly enabled.
+✅ Includes:
+- **Core capsules** (instructions/engine/commands/usercap/tasks/teaching) as markdown
+- **PEL** (Public Experience Library) + PEL ops modules
+- **Skills** (DP/PD-style learning content + art fundamentals)
+- **Templates** (module blocks, headers, storyboards, comic boards, etc.)
+- **Homeschool indexing** (links + navigation layer to external curricula; no copied curriculum content)
+- **Tools/scripts** that support repo hygiene (optional)
+
+🚫 Excludes (do not commit):
+- Personal info, family memories, student logs, report cards
+- Parent secrets (passphrases, hashes, HMAC keys)
+- Anything “private runtime state” for a household
+
+**Privacy rule:** Repo stays safe to share publicly. Household data lives local-only.
 <!-- /MODULE -->
 
-<!-- MODULE: repo.M01 | name="Definitions" -->
-## Definitions
-- **DP** = Domain Pack (learn/reference binder)
-- **PD** = Patterns & Drills (practice)
-- **Assets** = reference-only materials (track provenance/license when possible)
+
+<!-- MODULE: repo.M01 | name="Quick Start" -->
+## Quick Start
+
+- Browse repo to find:
+  - Templates: `/templates/`
+  - Skills: `/skills/`
+  - Homeschool index: `/homeschool/`
+  - PEL: `/pel/`
+  - Tasks (e.g., CPM dormant): `/tasks/`
+
+Notes:
+- Homeschool content here is an **index + planning layer** (links). Curriculum remains on the source sites.
+- If using SCHOOL Mode with a family, keep logs/keys in a local `family_private/` folder (gitignored).
 <!-- /MODULE -->
 
-<!-- MODULE: repo.M02 | name="Directory Layout" -->
-## Directory Layout (skillsets-first)
+
+<!-- MODULE: repo.M02 | name="Directory Layout (canon)" -->
+## Directory Layout (canon)
+
 ```
 /index/
   MASTER_INDEX.md
   ASSET_INDEX.md
 
-/skills/
-  gamedev/
-    index.md
-    gdd/
-      dp/
-      pd/
-    engines/
-      unreal/
-        dp/
-        pd/
-      godot/
-        dp/
-        pd/
-  writing/
-    index.md
-    editing/
-      dp/
-      pd/
-    creative/
-      dp/
-      pd/
-    resume/
-      dp/
-      pd/
+/templates/
+  docs/
   art/
-    index.md
-    image_gen/
-      prompts/
-      refs/
-      pd/
-    video_gen/
-      prompts/
-      refs/
-      pd/
-    storyboarding/
-      templates/
-      examples/
-      pd/
-    comics/
-      refs/
-      lettering/
-        pd/
-      panels/
-        templates/
+  assets/
+  indexes/
+  kb/
+  school/
+
+/skills/
+  art/
+  writing/
+  gamedev/
+  ...
+
+/pel/
+  library/
+  ops/
+
+/tasks/
+  CPM/
+
+/homeschool/
+  index.md
+  docs/
+  ep_levels/
+  high_school/
+  subjects/
+
+/tools/
+  (optional scripts)
+
+/00_Instructions.md
+/01_Identity.md
+/02_Operations_Law.md
+/03_Commands.md
+/04_Engine.md
+/05_USERCAP.md
+/06_Tasks.md
+/07_Teaching.md
 ```
 
-**Rule:** PDs live under the subfolder they train (to avoid getting lost).
 <!-- /MODULE -->
+
 
 <!-- MODULE: repo.M03 | name="Naming Conventions" -->
 ## Naming Conventions
-DPs: `DP-<SKILL>-<SUB>-###.md`  
-PDs: `PD-<SKILL>-<SUB>-###.md`
 
-Assets:
+### Capsule IDs (preferred)
+- `capsule_id` matches the file header number (e.g., `blu__04` for Engine)
+- Module IDs: `blu__04.M01`, `blu__03.M18`, etc.
+
+### Skills content (DP/PD)
+- DPs: `DP-<SKILL>-<SUB>-###.md`
+- PDs: `PD-<SKILL>-<SUB>-###.md`
+- Rule: PDs live under the subfolder they train.
+
+### Assets
 - Images: `IMG-<THEME>-####.(png|jpg|webp)`
 - Video refs: `VID-<THEME>-####.(mp4|mov|gif)`
-- Optional sidecar metadata: same name + `.yml` (see templates)
+- Optional metadata sidecar: same name + `.yml` (template provided)
 
-Examples:
-- `DP-WRIT-EDIT-001.md`
-- `PD-GAME-UE-003.md`
-- `IMG-noir-0007.webp` + `IMG-noir-0007.yml`
 <!-- /MODULE -->
 
-<!-- MODULE: repo.M04 | name="Statuses (optional)" -->
-## Statuses (optional)
-`INTAKE → DRAFT → ACTIVE → DEPRECATED`
 
-Prefer **deprecate** over delete.
+<!-- MODULE: repo.M04 | name="Homeschool Index Rules (no curriculum copying)" -->
+## Homeschool Index Rules (no curriculum copying)
+
+- `/homeschool/` is a **link index + planning layer**.
+- Do **not** copy/paste full curriculum content into this repo.
+- Always include:
+  - Source credit
+  - Homeschool law note (requirements vary by state/region)
+  - Donate/support link when available
+
+Recommended: Put parent-facing setup docs under `/homeschool/docs/`.
 <!-- /MODULE -->
 
-<!-- MODULE: repo.M05 | name="Indexing Rules" -->
-## Indexing Rules
-- `/index/MASTER_INDEX.md` links to each skill’s local `index.md`
-- `/index/ASSET_INDEX.md` catalogs assets (or assets use sidecar `.yml`)
-- Every DP/PD should be discoverable from a local index
+
+<!-- MODULE: repo.M05 | name="Git Hygiene / Private Data" -->
+## Git Hygiene / Private Data
+
+Do not commit household runtime files. Suggested local-only folder:
+- `family_private/`
+  - `<Student>_Log_Current.md`
+  - parent private caps (secrets/keys)
+  - report exports
+
+Add patterns to `.gitignore` (example):
+- `family_private/`
+- `*_Log_Current.md`
+- `*_Parent_Private*.md`
+
 <!-- /MODULE -->
+
+
+<!-- MODULE: repo.M06 | name="GitHub Raw Cache Note" -->
+## GitHub Raw Cache Note
+
+Sometimes `raw.githubusercontent.com` can appear stale.
+If a raw file looks wrong:
+- open the GitHub UI version to confirm, and/or
+- add a cache-bust query (e.g., `?v=<commit>`).
+
+<!-- /MODULE -->
+
 
 <!-- MODULE: repo.M09 | name="Bootstrap Checklist" -->
 ## Bootstrap Checklist
-- [ ] Create folders under `/skills/` for your skillsets
-- [ ] Create a local `index.md` per skillset
-- [ ] Start with 1 DP + 1 PD in a single subfolder
-- [ ] Add assets only with provenance/license notes
+
+- [ ] Keep canon knowledge in repo; keep private family state local-only
+- [ ] Use module blocks consistently (`<!-- MODULE ... -->` / `<!-- /MODULE -->`)
+- [ ] Keep `homeschool/` as an index (links + notes), not copied curriculum
+- [ ] Ensure every DP/PD is discoverable from a local index
+- [ ] Prefer deprecate over delete: `INTAKE → DRAFT → ACTIVE → DEPRECATED`
+
 <!-- /MODULE -->
 
-*Last updated:* 2026-02-15
-
-# Placeholder-safe headings patch
-
-**Why:** Stray headings (no content) don’t usually “break” anything, but they **do**:
-- confuse human readers,
-- increase retrieval ambiguity,
-- make “module scanning” less reliable.
-
-**Rule:** Every heading must contain at least one non-heading line.
-Use:
-> TODO (placeholder): <what belongs here>
-
-**Apply:**
-- Replace orphan headings in existing DPs/PDs with a TODO line.
-- Use the updated templates going forward.
-
-Generated: 2026-02-15
-
-# Orphan Heading Auto-fix Patch
-
-This patch adds a small tool to **auto-fix orphan Markdown headings** by inserting a placeholder line under each heading that has no content.
-
-## What it fixes
-A heading is considered **orphaned** if, before the next heading, the section contains only:
-- blank lines, and/or
-- HTML comments (`<!-- ... -->`)
-
-## How to use (recommended)
-From repo root:
-
-### 1) Dry-run (see what would change)
-```bash
-python tools/markdown_heading_autofix.py skills --check
-```
-
-### 2) Apply fixes (writes changes in-place)
-```bash
-python tools/markdown_heading_autofix.py skills --apply --backup
-```
-
-`--backup` writes a `.bak` file beside each modified file.
-
-## Placeholder line inserted
-Default:
-> TODO (placeholder): <fill this section>
-
-You can customize:
-```bash
-python tools/markdown_heading_autofix.py skills --apply --placeholder "> TODO: add notes/examples here"
-```
-
-## notes
-
-- “If raw.githubusercontent.com looks stale, use GitHub UI or add a cache-bust query (e.g., ?v=<commit>).”
-Generated: 2026-02-15
+*Last updated:* 2026-02-19

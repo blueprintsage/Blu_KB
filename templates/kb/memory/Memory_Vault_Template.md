@@ -67,31 +67,22 @@ When you want Blu to have continuity in a new chat, paste **only the relevant en
 
 ## Uniform schema: memlog_v1
 
-```yaml
-memlog_v1:
-  id: snake_case_unique_id
-  created: YYYY-MM-DD
-  tz: America/Chicago
-  scope: family_private        # family_private|user_private|public_safe
-  domain: dev|writing|career|life|health|relationships|finance
-  tags: [tag1, tag2]
-  sensitivity: low|medium|high
-  disclosure: anonymized_case_pattern
-  signal:
-    - "What was going on / what the user was experiencing"
-  pattern:
-    - "The reusable dynamic (what tends to happen)"
-  what_helped:
-    - "Steps, reframes, or checks that worked"
-  scripts:
-    - "Optional: words to say / a short rule / a prompt"
-  next_step:
-    - "The smallest next action (if any)"
-  redactions:
-    - "Anything removed or generalized"
-  notes:
-    - "Optional extra details (still non-identifying)"
-```
+- memlog_v1.id: snake_case_unique_id
+- memlog_v1.created: YYYY-MM-DD
+- memlog_v1.tz: America/Chicago
+- memlog_v1.scope: family_private        # family_private|user_private|public_safe
+- memlog_v1.domain: dev|writing|career|life|health|relationships|finance
+- memlog_v1.tags: [tag1, tag2]
+- memlog_v1.sensitivity: low|medium|high
+- memlog_v1.disclosure: anonymized_case_pattern
+- memlog_v1.signal[]: "What was going on / what the user was experiencing"
+- memlog_v1.pattern[]: "The reusable dynamic (what tends to happen)"
+- memlog_v1.what_helped[]: "Steps, reframes, or checks that worked"
+- memlog_v1.scripts[]: "Optional: words to say / a short rule / a prompt"
+- memlog_v1.next_step[]: "The smallest next action (if any)"
+- memlog_v1.redactions[]: "Anything removed or generalized"
+- memlog_v1.notes[]: "Optional extra details (still non-identifying)"
+
 
 **Rule:** If `scope` is `family_private` or `user_private`, never include names/locations/dates that could identify someone.
 Prefer composites and generalization.
@@ -139,16 +130,12 @@ Suggested one-liner:
 
 ## Index (optional, lightweight)
 
-```yaml
-mem_index_v1:
-  updated: 2026-02-13
-  highlights:
-    - "Dev: UE troubleshooting patterns"
-    - "Writing: voice-preserving edits"
-    - "Career: resume/cover tailoring workflow"
-  active_threads:
-    - "Project: ____"
-```
+- mem_index_v1.updated: 2026-02-13
+- mem_index_v1.highlights[]: "Dev: UE troubleshooting patterns"
+- mem_index_v1.highlights[]: "Writing: voice-preserving edits"
+- mem_index_v1.highlights[]: "Career: resume/cover tailoring workflow"
+- mem_index_v1.active_threads[]: "Project: ____"
+
 
 ---
 
@@ -159,6 +146,58 @@ mem_index_v1:
 ## Entries (paste new memlog_v1 blocks below)
 
 # --- entries start ---
+
+<!-- /MODULE -->
+
+<!-- MODULE: blu__memory_vault_template.M20 | name="Family Gate (no-secret storage)" -->
+
+## Family Gate (no-secret storage)
+
+Store only status, never the passphrase.
+
+Fields:
+- family_gate.enabled: true|false
+- family_gate.method: passphrase
+- family_gate.last_unlocked_at: <optional>
+- family_gate.notes: Passphrase stored outside vault (parent-only)
+
+<!-- /MODULE -->
+
+<!-- MODULE: blu__memory_vault_template.M21 | name="School Day Log (portable, parent-readable)" -->
+
+## School Day Log (portable, parent-readable)
+
+Header:
+- day_number: 1–180
+- date: YYYY-MM-DD
+- schedule: Spanish IV / Algebra 2 / British Lit / Modern Am Hist / Physics w Lab / Game Dev (optional)
+- school_complete: true|false
+
+Per-class record (repeat):
+- subject:
+- lesson:
+- checkpoints: 10 ✅/❌, 20 ✅/❌, 35 ✅/❌, 44 ✅/❌
+- deliverables:
+- incorrect_count:
+- score (0–100):
+- letter (A–F):
+- deductions:
+- next_fix:
+- carryover:
+
+<!-- /MODULE -->
+
+<!-- MODULE: blu__memory_vault_template.M22 | name="Weekly Summary (report-card safe)" -->
+
+## Weekly Summary (report-card safe)
+
+Fields:
+- week_of: YYYY-MM-DD
+- days_completed: #
+- subject_avgs: (Spanish IV, Algebra 2, British Lit, Modern Am Hist, Physics)
+- wins:
+- struggles:
+- next_week_focus:
 
 <!-- /MODULE -->
 
