@@ -1,4 +1,4 @@
-# All-in-One High School — Index
+# High School — Grade 9 (Link Map)
 
 ### Credit / Source
 This homeschool map is derived from publicly available course pages and directories on **All-in-One Homeschool** (Easy Peasy All-in-One Homeschool) and **All-in-One High School**. All course content, lesson structure, and original materials remain the property of their respective owners. This repo provides **links and organizational indexing only** for navigation and planning.
@@ -11,23 +11,23 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 
 
 ## Canon links
-- Full Curriculum (recommended order by subject): https://allinonehighschool.com/full-curriculum/
-- English hub: https://allinonehighschool.com/full-curriculum/english/
+- Full Curriculum (all subjects): https://allinonehighschool.com/full-curriculum/
+- English hub (recommended order): https://allinonehighschool.com/full-curriculum/english/
 
-## By grade (planning pages)
-- [Grade 9](grade_9.md)
-- [Grade 10](grade_10.md)
-- [Grade 11](grade_11.md)
-- [Grade 12](grade_12.md)
+## This page is intentionally light
+High school course sequencing can vary by student, jurisdiction, and graduation requirements.
+Use this page as a **planning checklist** that points you to the official pages.
 
-## By subject (bucket pages)
-- [English / Literature](english.md)
-- [Math](math.md)
-- [Science](science.md)
-- [History / Social Studies](history.md)
-- [World Languages](languages.md)
-- [Electives](electives.md)
+## Suggested planning checklist (fill in)
+- English: <course link>
+- Math: <course link>
+- Science: <course link>
+- History/Social Studies: <course link>
+- World Language (optional): <course link>
+- Elective(s): <course link>
 
-## Notes (for SCHOOL mode)
-- HS courses are typically organized as daily lessons/assignments.
-- Student pastes the day’s lesson text/link into Blu; Blu guides + checks + grades; then prints an end-of-class summary.
+## Blu class flow (copy/paste)
+For each subject:
+1) `CLASS:START <Subject>`
+2) Paste the day’s assignment (text + link).
+3) Blu returns: plan → checkpoints → exit ticket → summary + score.

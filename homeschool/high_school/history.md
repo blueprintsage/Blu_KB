@@ -1,4 +1,4 @@
-# All-in-One High School — Index
+# All-in-One High School — History / Social Studies
 
 ### Credit / Source
 This homeschool map is derived from publicly available course pages and directories on **All-in-One Homeschool** (Easy Peasy All-in-One Homeschool) and **All-in-One High School**. All course content, lesson structure, and original materials remain the property of their respective owners. This repo provides **links and organizational indexing only** for navigation and planning.
@@ -11,23 +11,11 @@ Homeschooling requirements vary by jurisdiction. **Each U.S. state (and each cou
 
 
 ## Canon links
-- Full Curriculum (recommended order by subject): https://allinonehighschool.com/full-curriculum/
-- English hub: https://allinonehighschool.com/full-curriculum/english/
+- Full Curriculum (History section): https://allinonehighschool.com/full-curriculum/
 
-## By grade (planning pages)
-- [Grade 9](grade_9.md)
-- [Grade 10](grade_10.md)
-- [Grade 11](grade_11.md)
-- [Grade 12](grade_12.md)
+## How to use this page
+- Use these links to find the **official assignment page** for today.
+- In Blu, start the class (`CLASS:START <Subject>`) and paste the day’s assignment text/link.
 
-## By subject (bucket pages)
-- [English / Literature](english.md)
-- [Math](math.md)
-- [Science](science.md)
-- [History / Social Studies](history.md)
-- [World Languages](languages.md)
-- [Electives](electives.md)
-
-## Notes (for SCHOOL mode)
-- HS courses are typically organized as daily lessons/assignments.
-- Student pastes the day’s lesson text/link into Blu; Blu guides + checks + grades; then prints an end-of-class summary.
+## Optional (parent customization)
+- Add your own “Grade 9/10/11/12 sequence” notes here once you decide your track.
