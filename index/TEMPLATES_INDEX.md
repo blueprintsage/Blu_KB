@@ -2,7 +2,7 @@
 Last updated: 2026-02-20
 
 ## 🔎 Templates — Root
-Find: templates — root
+Find: templates root readme
 <!-- MODULE: INDEX.TEMPLATES.ROOT.M01 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
@@ -10,8 +10,8 @@ Find: templates — root
 <!-- /MODULE -->
 
 ## 🔎 Templates — _meta
-Find: templates — _meta
-<!-- MODULE: INDEX.TEMPLATES._META.M01 -->
+Find: naming rules repo fetch rules template index
+<!-- MODULE: INDEX.TEMPLATES.META.M02 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE__META_NAMING_RULES_MD | naming_rules.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/_meta/naming_rules.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/_meta/naming_rules.md |
@@ -19,9 +19,19 @@ Find: templates — _meta
 | TEMPLATE__META_TEMPLATE_INDEX_MD | template_index.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/_meta/template_index.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/_meta/template_index.md |
 <!-- /MODULE -->
 
+## 🔎 Templates — Core (most used)
+Find: dp_template pd_template fundamentals_template
+<!-- MODULE: INDEX.TEMPLATES.CORE.M03 -->
+| alias | purpose | open | raw |
+|---|---|---|---|
+| TEMPLATE_SKILLS_DP_DP_TEMPLATE_MD | dp/DP_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/dp/DP_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/dp/DP_TEMPLATE.md |
+| TEMPLATE_SKILLS_FUNDAMENTALS_FUNDAMENTALS_TEMPLATE_MD | fundamentals/FUNDAMENTALS_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md |
+| TEMPLATE_SKILLS_PD_PD_TEMPLATE_MD | pd/PD_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/pd/PD_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/pd/PD_TEMPLATE.md |
+<!-- /MODULE -->
+
 ## 🔎 Templates — art
 Find: templates — art
-<!-- MODULE: INDEX.TEMPLATES.ART.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.ART.M04 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_ART_COMICS_BOARDS_COMIC_BOARD_11X17_BLUELINE_CLEAN_PDF | comics/boards/comic_board_11x17_blueline_clean.pdf | https://github.com/blueprintsage/Blu_KB/blob/main/templates/art/comics/boards/comic_board_11x17_blueline_clean.pdf | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/art/comics/boards/comic_board_11x17_blueline_clean.pdf |
@@ -33,7 +43,7 @@ Find: templates — art
 
 ## 🔎 Templates — assets
 Find: templates — assets
-<!-- MODULE: INDEX.TEMPLATES.ASSETS.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.ASSETS.M05 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_ASSETS_ASSET_SIDECAR_TEMPLATE_YML | ASSET_SIDECAR_TEMPLATE.yml | https://github.com/blueprintsage/Blu_KB/blob/main/templates/assets/ASSET_SIDECAR_TEMPLATE.yml | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/assets/ASSET_SIDECAR_TEMPLATE.yml |
@@ -41,7 +51,7 @@ Find: templates — assets
 
 ## 🔎 Templates — docs
 Find: templates — docs
-<!-- MODULE: INDEX.TEMPLATES.DOCS.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.DOCS.M06 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_DOCS_CAPSULE_HEADER_TEMPLATE_MD | Capsule_Header_Template.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/docs/Capsule_Header_Template.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/docs/Capsule_Header_Template.md |
@@ -51,7 +61,7 @@ Find: templates — docs
 
 ## 🔎 Templates — family
 Find: templates — family
-<!-- MODULE: INDEX.TEMPLATES.FAMILY.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.FAMILY.M07 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_FAMILY_WIZARDS_FAMILY_WIZARD_V1_MD | wizards/FAMILY_WIZARD_v1.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/family/wizards/FAMILY_WIZARD_v1.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/family/wizards/FAMILY_WIZARD_v1.md |
@@ -59,7 +69,7 @@ Find: templates — family
 
 ## 🔎 Templates — indexes
 Find: templates — indexes
-<!-- MODULE: INDEX.TEMPLATES.INDEXES.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.INDEXES.M08 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_INDEXES_SKILL_INDEX_MD | skill_index.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/indexes/skill_index.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/indexes/skill_index.md |
@@ -67,7 +77,7 @@ Find: templates — indexes
 
 ## 🔎 Templates — kb
 Find: templates — kb
-<!-- MODULE: INDEX.TEMPLATES.KB.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.KB.M09 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_KB_MEMORY_MEMORY_VAULT_TEMPLATE_MD | memory/Memory_Vault_Template.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/kb/memory/Memory_Vault_Template.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/kb/memory/Memory_Vault_Template.md |
@@ -75,7 +85,7 @@ Find: templates — kb
 
 ## 🔎 Templates — parent
 Find: templates — parent
-<!-- MODULE: INDEX.TEMPLATES.PARENT.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.PARENT.M10 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_PARENT_PARENT_GOD_MODE_KEY_TEMPLATE_MD | Parent_GOD_Mode_Key_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/parent/Parent_GOD_Mode_Key_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/parent/Parent_GOD_Mode_Key_TEMPLATE.md |
@@ -83,7 +93,7 @@ Find: templates — parent
 
 ## 🔎 Templates — school
 Find: templates — school
-<!-- MODULE: INDEX.TEMPLATES.SCHOOL.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.SCHOOL.M11 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_SCHOOL_CAPS_PARENT_PRIVATE_CAP_TEMPLATE_MD | caps/Parent_Private_Cap_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/school/caps/Parent_Private_Cap_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/school/caps/Parent_Private_Cap_TEMPLATE.md |
@@ -101,7 +111,7 @@ Find: templates — school
 
 ## 🔎 Templates — skills
 Find: templates — skills
-<!-- MODULE: INDEX.TEMPLATES.SKILLS.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.SKILLS.M12 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_SKILLS_DP_DP_TEMPLATE_MD | dp/DP_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/dp/DP_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/dp/DP_TEMPLATE.md |
@@ -111,7 +121,7 @@ Find: templates — skills
 
 ## 🔎 Templates — wizards
 Find: templates — wizards
-<!-- MODULE: INDEX.TEMPLATES.WIZARDS.M01 -->
+<!-- MODULE: INDEX.TEMPLATES.WIZARDS.M13 -->
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATE_WIZARDS_SCHOOL_SETUP_WIZARD_V1_MD | SCHOOL_SETUP_WIZARD_v1.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/wizards/SCHOOL_SETUP_WIZARD_v1.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/wizards/SCHOOL_SETUP_WIZARD_v1.md |
