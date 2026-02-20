@@ -1,7 +1,7 @@
 # Art Fundamentals — Index
 
 **Rule:** Fundamentals live under each skillset at `skills/<skill>/fundamentals/`  
-**Template:** [`/templates/FUNDAMENTALS_TEMPLATE.md`](../../../templates/FUNDAMENTALS_TEMPLATE.md)
+**Template:** [`/templates/FUNDAMENTALS_TEMPLATE.md`](../../../templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md)
 
 ## Purpose
 Fundamentals are the **engine**: reusable building blocks that apply to *anything* in this skill.  
@@ -14,7 +14,7 @@ For art, the core engine is: **Stick → Block → Rough → Final**.
 ## Application Packs (DP)
 These *use* fundamentals; they don’t replace them.
 - **DP-ART-FIG-001 — Figure Drawing (Application Pack)**  
-  [`../dp/DP-ART-FIG-001.md`](../dp/DP-ART-FIG-001.md)
+  [`../dp/DP-ART-FIG-001.md`](dp/DP-ART-FIG-001.md)
 - **DP-ART-OBJ-001 — Object Drawing (Application Pack)**  
   [`dp/DP-ART-OBJ-001.md`](dp/DP-ART-OBJ-001.md)
 

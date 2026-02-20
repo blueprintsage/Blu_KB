@@ -1,60 +1,32 @@
 # MASTER INDEX
+Last updated: 2026-02-20
 
-## Quick start
-- Repo scope + rules: [`README.md`](../README.md)
-- Global conventions (canonical): [`index/Global_Conventions.md`](Global_Conventions.md)
-- Pattern library (canonical): [`index/Pattern_Library.md`](Pattern_Library.md)
-- Backlog (canonical): [`index/Backlog.md`](Backlog.md)
-- Assets catalog: [`index/ASSET_INDEX.md`](ASSET_INDEX.md)
-- **Fundamentals (workshop / AI↔AI):** Stored per-skill at `skills/<skill>/fundamentals/` (start here: [`skills/art/fundamentals/index.md`](../skills/art/fundamentals/index.md))
+## 🔎 Quick Start
+Find: quick start
+<!-- MODULE: INDEX.MASTER.QUICKSTART.M00 -->
+| alias | purpose | open | raw |
+|---|---|---|---|
+| README | Repo scope + rules | https://github.com/blueprintsage/Blu_KB/blob/main/README.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/README.md |
+| GLOBAL_CONVENTIONS | index/Global_Conventions.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Global_Conventions.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Global_Conventions.md |
+| PATTERN_LIBRARY | index/Pattern_Library.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Pattern_Library.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Pattern_Library.md |
+| BACKLOG | index/Backlog.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Backlog.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Backlog.md |
+| ASSETS_CATALOG | index/ASSET_INDEX.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/ASSET_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ASSET_INDEX.md |
+<!-- /MODULE -->
 
-
-## Skillsets
-- **Art** → [`skills/art/index.md`](../skills/art/index.md)
-- **Coding** → [`skills/coding/index.md`](../skills/coding/index.md)
-- **Finance** → [`skills/finance/index.md`](../skills/finance/index.md)
-- **Game Dev** → [`skills/gamedev/index.md`](../skills/gamedev/index.md)
-- **Writing** → [`skills/writing/index.md`](../skills/writing/index.md)
-
-## Fundamentals
-- **Rule:** Fundamentals live under each skillset at `skills/<skill>/fundamentals/`
-- Art Fundamentals index → [`skills/art/fundamentals/index.md`](../skills/art/fundamentals/index.md)
-
-## Domain Packs (DP) — direct links
-
-### Writing
-- [`DP-WRI-001 Writing & Editing`](../skills/writing/editing/dp/DP-WRI-001.md)
-- [`DP-WRI-002 Grammar & Style`](../skills/writing/editing/dp/DP-WRI-002.md)
-- [`DP-WRI-003 Creative Writing Coaching`](../skills/writing/creative/dp/DP-WRI-003.md)
-- [`DP-WRI-005 Summarization`](../skills/writing/summarization/dp/DP-WRI-005.md)
-- [`DP-SCR-001 Screenwriting`](../skills/writing/screenwriting/dp/DP-SCR-001.md)
-- [`DP-MUS-001 Songwriting Scaffolds`](../skills/writing/songwriting/dp/DP-MUS-001.md)
-
-### Game Dev
-- [`DP-GDD-001 Game Design Docs`](../skills/gamedev/gdd/dp/DP-GDD-001.md)
-- [`DP-BP-001 Blueprint Scripting (Unreal)`](../skills/gamedev/engines/unreal/dp/DP-BP-001.md)
-- [`DP-GOD-001 Godot 4.x Gameplay & Debugging`](../skills/gamedev/engines/godot/dp/DP-GOD-001.md)
-- [`DP-UNI-001 Unity Gameplay & Debugging`](../skills/gamedev/engines/unity/dp/DP-UNI-001.md)
-
-### Art
-- [`DP-ART-FIG-001 Figure Drawing (Application Pack) — Uses Fundamentals: Drawing`](../skills/art/fundamentals/dp/DP-ART-FIG-001.md)
-- [`DP-ART-FUND-001 Fundamentals: Drawing (Stick → Block → Rough → Final)`](../skills/art/fundamentals/dp/DP-ART-FUND-001.md)
-- [`DP-COM-001 Comics Pipeline`](../skills/art/comics/dp/DP-COM-001.md)
-- [`DP-VIS-001 Visual Prompting & Image Generation`](../skills/art/image_gen/dp/DP-VIS-001.md)
-- [`DP-VIS-002 Image Enhancement & Hyper-Real Edits`](../skills/art/image_gen/dp/DP-VIS-002.md)
-- [`DP-VID-001 Video Preproduction`](../skills/art/video_gen/dp/DP-VID-001.md)
-- [`DP-VID-002 Text-to-Video Prompting & Iteration`](../skills/art/video_gen/dp/DP-VID-002.md)
-
-### Coding
-- [`DP-CODE-001 Code Development`](../skills/coding/general/dp/DP-CODE-001.md)
-
-### Finance
-- [`DP-FIN-001 Finance & Econ Explainers`](../skills/finance/general/dp/DP-FIN-001.md)
-
-## Templates
-- [`templates/DP_TEMPLATE.md`](../templates/DP_TEMPLATE.md)
-- [`templates/PD_TEMPLATE.md`](../templates/PD_TEMPLATE.md)
-- [`templates/ASSET_SIDECAR_TEMPLATE.yml`](../templates/ASSET_SIDECAR_TEMPLATE.yml)
-- [`templates/STORYBOARD_TEMPLATE.md`](../templates/STORYBOARD_TEMPLATE.md)
-- [`templates/FUNDAMENTALS_TEMPLATE.md`](../templates/FUNDAMENTALS_TEMPLATE.md)
-
+## 🔎 Sub-Indexes
+Find: sub-indexes
+<!-- MODULE: INDEX.MASTER.SUBINDEX.M01 -->
+| alias | purpose | open | raw |
+|---|---|---|---|
+| INDEX_MASTER | Master index | https://github.com/blueprintsage/Blu_KB/blob/main/index/MASTER_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/MASTER_INDEX.md |
+| INDEX_PROTOCOLS | Protocols map | https://github.com/blueprintsage/Blu_KB/blob/main/index/PROTOCOLS_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/PROTOCOLS_INDEX.md |
+| INDEX_SKILLS | Skills map | https://github.com/blueprintsage/Blu_KB/blob/main/index/SKILLS_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/SKILLS_INDEX.md |
+| INDEX_HOMESCHOOL | Homeschool map | https://github.com/blueprintsage/Blu_KB/blob/main/index/HOMESCHOOL_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/HOMESCHOOL_INDEX.md |
+| INDEX_TEMPLATES | Templates map | https://github.com/blueprintsage/Blu_KB/blob/main/index/TEMPLATES_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/TEMPLATES_INDEX.md |
+| INDEX_TOOLS | Tools scripts map | https://github.com/blueprintsage/Blu_KB/blob/main/index/TOOLS_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/TOOLS_INDEX.md |
+| INDEX_PEL | PEL map | https://github.com/blueprintsage/Blu_KB/blob/main/index/PEL_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/PEL_INDEX.md |
+| INDEX_TASKS | Tasks map | https://github.com/blueprintsage/Blu_KB/blob/main/index/TASKS_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/TASKS_INDEX.md |
+| INDEX_ENGINE_PATCHES | Engine patches map | https://github.com/blueprintsage/Blu_KB/blob/main/index/ENGINE_PATCHES_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ENGINE_PATCHES_INDEX.md |
+| INDEX_ABOUT | About map | https://github.com/blueprintsage/Blu_KB/blob/main/index/ABOUT_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ABOUT_INDEX.md |
+| INDEX_ASSETS | Assets catalog | https://github.com/blueprintsage/Blu_KB/blob/main/index/ASSET_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ASSET_INDEX.md |
+<!-- /MODULE -->
