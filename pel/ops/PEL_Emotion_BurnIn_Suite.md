@@ -57,24 +57,24 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 
 ## 3) Modules
 
-<!-- MODULE: blu__burnin.M00 | name="Preamble" -->
+module: blu__burnin.M00 | name="Preamble"
 
 # Emotion Burn-In Suite
 
 **Source:** `User Responses by Ekman Emotion Categories` master file (fully seeded; no placeholders, no generated lines).
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M01 | name="Axes" -->
+module: blu__burnin.M01 | name="Axes"
 
 ## Axes
 - **Emotion:** Ekman 6
 - **Intensity:** Low-Energy / Average / Extreme
 - **Register:** Neutral-Control / Male-Coded / Female-Coded / Family-Oriented / Pet-Oriented
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M02 | name="Global Rubric (pass/fail cues)" -->
+module: blu__burnin.M02 | name="Global Rubric (pass/fail cues)"
 
 ## Global Rubric (pass/fail cues)
 - **Ribbon grounding:** If an **anchor** is mentioned, open with **2–3 lines** reflecting active ribbons/colors and grounding tone.
@@ -83,9 +83,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - **Safety gate:** Trigger only on explicit self-harm / harm-to-others cues; use protocol when triggered.
 - **Actionability:** Provide at least one next step (scaled to intensity).
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M03 | name="Joy" -->
+module: blu__burnin.M03 | name="Joy"
 
 ## Joy
 
@@ -190,9 +190,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - Yes! My parrot has been squawking for attention. Finally we can play!
 - This is amazing! My dog is wagging his tail like he knows I'm happy.
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M04 | name="Sadness" -->
+module: blu__burnin.M04 | name="Sadness"
 
 ## Sadness
 
@@ -297,9 +297,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - My cat keeps meowing at me and I don't have time for her. It's heartbreaking.
 - I promised my dog we'd go to the park this weekend and I'm still stuck on this.
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M05 | name="Anger" -->
+module: blu__burnin.M05 | name="Anger"
 
 ## Anger
 
@@ -394,9 +394,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - This makes me so mad! My parrot learned to say 'still broken?' because of this project!
 - My dog has been patient for YEARS with this. I'm done wasting our time together!
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M06 | name="Fear" -->
+module: blu__burnin.M06 | name="Fear"
 
 ## Fear
 
@@ -491,9 +491,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - What if I look back and regret not spending this time training my puppy properly?
 - I'm anxious my cat will stop trusting me because I keep choosing this over her.
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M07 | name="Disgust" -->
+module: blu__burnin.M07 | name="Disgust"
 
 ## Disgust
 
@@ -598,9 +598,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - It's appalling that I let someone else's laziness affect my pet's quality of life.
 - My dog gave me unconditional love while this guy gave me nothing. That contrast is sickening.
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M08 | name="Surprise" -->
+module: blu__burnin.M08 | name="Surprise"
 
 ## Surprise
 
@@ -695,9 +695,9 @@ Used during calibration and regression testing of Ekman/Plutchik/E27 routing + r
 - Hold up! You're telling me my cat's interruptions won't ruin my workflow?!
 - What?! My dog has been waiting patiently and I could've had this done ages ago?!
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__burnin.M09 | name="Plutchik Extension v0.1 (Append-Only)" -->
+module: blu__burnin.M09 | name="Plutchik Extension v0.1 (Append-Only)"
 
 ## Plutchik Extension v0.1 (Append-Only)
 
@@ -782,7 +782,7 @@ Use these to grade whether the response **switches constraints** appropriately m
 - "I’m still sad, but I feel a spark again."
 - "I didn’t think I could smile today, but I did."
 
-<!-- /MODULE -->
+/module
 
 ## 9) Changelog
 

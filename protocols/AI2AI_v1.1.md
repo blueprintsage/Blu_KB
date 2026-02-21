@@ -69,7 +69,7 @@ STATE:
 ---
 INTEGRITY: chars≈(fill) | lines=(fill) | first32="SOURCE: Admin (Bridge)..." | last32="...collect-v1.2-polish-backlog]---"
 
-<!-- MODULE: ai2ai.guard | name="Guardrails" -->
+module: ai2ai.guard | name="Guardrails"
 - Proposals only.
 - No heuristic rewrites without Hard-6 + Admin approval + regression test.
 - Label provenance + vetted/unvetted.

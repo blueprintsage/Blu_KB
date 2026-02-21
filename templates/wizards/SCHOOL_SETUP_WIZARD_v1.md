@@ -1,4 +1,4 @@
-<!-- MODULE: blu__school.M01 | name="SCHOOL:SETUP Wizard (One-question-at-a-time) | status=active" -->
+module: blu__school.M01 | name="SCHOOL:SETUP Wizard (One-question-at-a-time) | status=active"
 
 ## SCHOOL:SETUP Wizard (One-question-at-a-time)
 
@@ -95,4 +95,4 @@ Prompt: “Which subject marks day complete (anchor)?”
 3) For each class: `CLASS:START <Subject>` and paste the assignment text/link.
 4) On anchor completion: mark day complete and save updated log back to same filename.
 
-<!-- /MODULE -->
+/module

@@ -2,28 +2,28 @@
 
 # <SKILLSET> — Index
 
-<!-- MODULE: skill.M01 | name="Scope" -->
+module: skill.M01 | name="Scope"
 ## Scope
 What this skillset covers and what it does not.
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M02 | name="Subfolders" -->
+module: skill.M02 | name="Subfolders"
 ## Subfolders
 - <subfolder> — description
 - <subfolder> — description
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M03 | name="Domain Packs (DP)" -->
+module: skill.M03 | name="Domain Packs (DP)"
 ## Domain Packs (DP)
 - (link DPs here)
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M04 | name="Patterns & Drills (PD)" -->
+module: skill.M04 | name="Patterns & Drills (PD)"
 ## Patterns & Drills (PD)
 - (link PDs here)
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M05 | name="Assets" -->
+module: skill.M05 | name="Assets"
 ## Assets
 - (link asset folders or entries here)
-<!-- /MODULE -->
+/module

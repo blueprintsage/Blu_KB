@@ -1,4 +1,4 @@
-<!-- MODULE: blu__school.M02 | name="SCHOOL:SETUP Wizard (with Parent Gate ID) | status=active" -->
+module: blu__school.M02 | name="SCHOOL:SETUP Wizard (with Parent Gate ID) | status=active"
 
 # SCHOOL:SETUP Wizard (with Parent Gate ID)
 
@@ -26,4 +26,4 @@ If Parent lock enabled:
 - Ask for hash OR instruct hash generation method (website/local)
 - Optionally generate `Parent_GOD_Mode_Key.md` once hash is provided
 
-<!-- /MODULE -->
+/module

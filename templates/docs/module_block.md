@@ -1,4 +1,4 @@
-<!-- MODULE: blu__<scope>.<NN> | name="<Module Name>" -->
+module: blu__<scope>.<NN> | name="<Module Name>"
 
 ## <Module Title>
 Status: **active|draft|locked**
@@ -17,4 +17,4 @@ Rules:
 Notes:
 - <note 1>
 
-<!-- /MODULE -->
+/module

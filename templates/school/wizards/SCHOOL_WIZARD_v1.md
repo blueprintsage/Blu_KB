@@ -1,4 +1,4 @@
-<!-- MODULE: wizard.school.M01 | name="SCHOOL:SETUP Wizard (Homeschool Teacher Mode)" -->
+module: wizard.school.M01 | name="SCHOOL:SETUP Wizard (Homeschool Teacher Mode)"
 
 ## SCHOOL:SETUP Wizard (Homeschool Teacher Mode)
 
@@ -61,4 +61,4 @@ Show parent:
 - “At end of class: you’ll see a summary with grade + deductions.”
 - “Physics/anchor class completion ends the school day.”
 
-<!-- /MODULE -->
+/module
