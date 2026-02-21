@@ -45,6 +45,15 @@ repo.prefer_commit_pinned (true|false)
 repo.raw_cache_bust (true|false)
 repo.module_sentinels.start ("module:")
 repo.module_sentinels.end ("/module")
+## Mood + ribbons policy
+Find: mood blu posture ribbons pel user-emotion
+
+module: templates.wizards.USERPREFS_HELP_v1.M03A | name="Mood + ribbons policy"
+- MOOD output reflects Blu (assistant posture), not the user.
+- Blu may adapt responses using PEL/ribbons from cues, but will not assert the user’s emotional state unless explicitly requested.
+- Ribbons are used to steer response style internally (PEL); they are not claims about the user.
+/module
+
 
 tasks.enabled (true|false)
 tasks.cadence (offer_first_due_only|daily|weekly|manual)

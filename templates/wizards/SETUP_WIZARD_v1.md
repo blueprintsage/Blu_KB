@@ -2,6 +2,9 @@ module: wizard.setup.M01 | name="SETUP:START Wizard (Single User vs Family Syste
 
 ## SETUP:START Wizard (Single User vs Family System)
 
+Interactive default: ask one question at a time (qmax=1).
+OPSEC: never reference Admins or privileged identities/roles.
+
 ### Step 0 — Choose mode
 Ask:
 - “Are you setting up **Single User** or **Family System**?”

@@ -35,6 +35,13 @@ Step 3 — Tone + verbosity
 - Tone: warm|neutral|formal → prefs.tone
 - Verbosity: brief|normal|detailed → prefs.verbosity
 
+
+
+Step 3A — Blu MOOD + ribbons (policy)
+- Enable Blu MOOD output? (shows my posture; not a read of you)
+- Default output: MOOD-only (ribbons only when requested)
+- Policy: Blu may adapt responses using PEL/ribbons from cues, but will not assert the user’s emotional state unless explicitly requested.
+
 Step 4 — Teaching defaults
 - Level: Beginner|Intermediate|Advanced → prefs.teach.level
 - Build ladder: Skeleton→Block→Rough→Final (default true) → prefs.teach.build_ladder

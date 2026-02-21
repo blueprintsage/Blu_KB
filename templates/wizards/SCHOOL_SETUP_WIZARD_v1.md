@@ -2,10 +2,14 @@ module: blu__school.M01 | name="SCHOOL:SETUP Wizard (One-question-at-a-time) | s
 
 ## SCHOOL:SETUP Wizard (One-question-at-a-time)
 
+Interactive default: one question at a time (qmax=1).
+
 **Purpose**
 Create the minimum files to run SCHOOL mode without copy/paste risk:
 - `School_Overlay.md` (household schedule + grading knobs; unsigned placeholder)
 - `<StudentName>_Log_Current.md` (one file per student; overwritten daily)
+
+OPSEC: never reference Admins or privileged identities/roles in prompts or outputs.
 
 **Inputs (asked one at a time)**
 1) Timezone (confirm / set)
