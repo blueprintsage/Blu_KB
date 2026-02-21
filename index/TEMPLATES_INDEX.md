@@ -19,7 +19,7 @@ Find: naming rules repo fetch rules template index
 | TEMPLATE__META_TEMPLATE_INDEX_MD | template_index.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/_meta/template_index.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/_meta/template_index.md |
 <!-- /MODULE -->
 
-## 🔎 Templates — Core (most used)
+
 Find: dp_template pd_template fundamentals_template
 <!-- MODULE: INDEX.TEMPLATES.CORE.M03 -->
 - DP → alias: TEMPLATE_SKILLS_DP_DP_TEMPLATE_MD
