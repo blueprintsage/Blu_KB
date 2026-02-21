@@ -1,7 +1,5 @@
-<!--
 Blu_KB Repo README (module-style, paste-safe)
 No YAML front matter on purpose (Notepad++ copy/paste friendliness).
--->
 
 # Blu_KB — Repo Canon (Templates • Skills • PEL • Homeschool Index)
 

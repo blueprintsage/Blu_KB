@@ -4,6 +4,11 @@ module: blu__templates.02 | name="Template Index"
 
 Add an entry for every template you expect to reuse.
 
+## Meta
+- Repo fetch rules — `templates/_meta/repo_fetch_rules.md`
+- Naming rules — `templates/_meta/naming_rules.md`
+- This index — `templates/_meta/template_index.md`
+
 ## Docs
 - Module wrapper — `templates/docs/module_block.md`
 - Capsule header — `templates/docs/Capsule_Header_Template.md`

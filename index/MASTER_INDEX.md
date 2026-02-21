@@ -7,6 +7,7 @@ module: INDEX.MASTER.QUICKSTART.M00
 | alias | purpose | open | raw |
 |---|---|---|---|
 | README | Repo scope + rules | https://github.com/blueprintsage/Blu_KB/blob/main/README.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/README.md |
+| HEALTHCHECK | Quick repo ping (UI + raw) | https://github.com/blueprintsage/Blu_KB/blob/main/index/HEALTHCHECK.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/HEALTHCHECK.md |
 | GLOBAL_CONVENTIONS | index/Global_Conventions.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Global_Conventions.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Global_Conventions.md |
 | PATTERN_LIBRARY | index/Pattern_Library.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Pattern_Library.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Pattern_Library.md |
 | BACKLOG | index/Backlog.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Backlog.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Backlog.md |

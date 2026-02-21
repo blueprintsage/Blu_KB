@@ -55,6 +55,7 @@ Find: skills — writing
 module: INDEX.SKILLS.WRITING.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
+| SKILL_MODULAR_COVER_LETTERS | writing/cover_letters/modular_cover_letters | https://github.com/blueprintsage/Blu_KB/blob/main/skills/writing/cover_letters/modular_cover_letters.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/skills/writing/cover_letters/modular_cover_letters.md |
 | SKILLS_WRITING_CREATIVE_DP_DP_WRI_003 | creative/dp/DP-WRI-003 | https://github.com/blueprintsage/Blu_KB/blob/main/skills/writing/creative/dp/DP-WRI-003.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/skills/writing/creative/dp/DP-WRI-003.md |
 | SKILLS_WRITING_EDITING_DP_DP_WRI_001 | editing/dp/DP-WRI-001 | https://github.com/blueprintsage/Blu_KB/blob/main/skills/writing/editing/dp/DP-WRI-001.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/skills/writing/editing/dp/DP-WRI-001.md |
 | SKILLS_WRITING_EDITING_DP_DP_WRI_002 | editing/dp/DP-WRI-002 | https://github.com/blueprintsage/Blu_KB/blob/main/skills/writing/editing/dp/DP-WRI-002.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/skills/writing/editing/dp/DP-WRI-002.md |
