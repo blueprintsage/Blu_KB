@@ -22,11 +22,15 @@ Find: naming rules repo fetch rules template index
 ## 🔎 Templates — Core (most used)
 Find: dp_template pd_template fundamentals_template
 <!-- MODULE: INDEX.TEMPLATES.CORE.M03 -->
-| alias | purpose | open | raw |
-|---|---|---|---|
-| TEMPLATE_SKILLS_DP_DP_TEMPLATE_MD | dp/DP_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/dp/DP_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/dp/DP_TEMPLATE.md |
-| TEMPLATE_SKILLS_FUNDAMENTALS_FUNDAMENTALS_TEMPLATE_MD | fundamentals/FUNDAMENTALS_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md |
-| TEMPLATE_SKILLS_PD_PD_TEMPLATE_MD | pd/PD_TEMPLATE.md | https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/pd/PD_TEMPLATE.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/pd/PD_TEMPLATE.md |
+- DP → alias: TEMPLATE_SKILLS_DP_DP_TEMPLATE_MD
+  - open: https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/dp/DP_TEMPLATE.md
+  - raw:  https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/dp/DP_TEMPLATE.md
+- Fundamentals → alias: TEMPLATE_SKILLS_FUNDAMENTALS_FUNDAMENTALS_TEMPLATE_MD
+  - open: https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md
+  - raw:  https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/fundamentals/FUNDAMENTALS_TEMPLATE.md
+- PD → alias: TEMPLATE_SKILLS_PD_PD_TEMPLATE_MD
+  - open: https://github.com/blueprintsage/Blu_KB/blob/main/templates/skills/pd/PD_TEMPLATE.md
+  - raw:  https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/skills/pd/PD_TEMPLATE.md
 <!-- /MODULE -->
 
 ## 🔎 Templates — art
