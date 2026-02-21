@@ -37,10 +37,10 @@ Paste-safe: no YAML front matter.
 
 ---
 
-<!-- MODULE: gc.M99 | name="Maintenance" -->
+module: gc.M99 | name="Maintenance"
 ## Maintenance
 - Canonical source: `index/Global_Conventions.md`
 - Edit conventions here; keep other files linking to this.
-<!-- /MODULE -->
+/module
 
 *Last updated:* 2026-02-15

@@ -2,7 +2,7 @@
 
 # ASSET INDEX
 
-<!-- MODULE: assets.M01 | name="How to use" -->
+module: assets.M01 | name="How to use"
 ## How to use
 - Add one “asset card” per reference asset (or per set).
 - Prefer linking to a folder path + filenames.
@@ -10,9 +10,9 @@
 
 **License values:** owned | cc0 | cc-by | cc-by-sa | unknown  
 If unknown: treat as **reference-only**, avoid copying exact designs.
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: assets.M02 | name="Asset Card Template" -->
+module: assets.M02 | name="Asset Card Template"
 ## Asset Card Template
 ```md
 ### <ID> — <Short name>
@@ -26,9 +26,9 @@ If unknown: treat as **reference-only**, avoid copying exact designs.
   - "<hint 1>"
   - "<hint 2>"
 ```
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: assets.M03 | name="Entries" -->
+module: assets.M03 | name="Entries"
 ## Entries
 - (add asset cards here)
-<!-- /MODULE -->
+/module

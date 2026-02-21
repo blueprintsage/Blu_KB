@@ -3,7 +3,7 @@ Last updated: 2026-02-20
 
 ## 🔎 About
 Find: about
-<!-- MODULE: INDEX.ABOUT.M01 -->
+module: INDEX.ABOUT.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | ABOUT_00_INDEX | 00_index | https://github.com/blueprintsage/Blu_KB/blob/main/about/00_index.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/00_index.md |
@@ -14,4 +14,4 @@ Find: about
 | ABOUT_SAFETY_TRUTH | safety_truth | https://github.com/blueprintsage/Blu_KB/blob/main/about/safety_truth.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/safety_truth.md |
 | ABOUT_TASKS | tasks | https://github.com/blueprintsage/Blu_KB/blob/main/about/tasks.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/tasks.md |
 | ABOUT_TEACHING | teaching | https://github.com/blueprintsage/Blu_KB/blob/main/about/teaching.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/teaching.md |
-<!-- /MODULE -->
+/module
