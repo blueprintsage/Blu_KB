@@ -2,51 +2,51 @@
 
 # PD-<SKILL>-<SUB>-### — <Drill Title>
 
-<!-- MODULE: pd.M00 | name="Placeholder rule" -->
+module: pd.M00 | name="Placeholder rule"
 ## Placeholder rule
 No orphan headings. Every heading must have at least **one** non-heading line beneath it.
 
 Recommended:
 > TODO (placeholder): <what belongs here>
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: pd.M01 | name="Drill Setup" -->
+module: pd.M01 | name="Drill Setup"
 ## Drill Setup
 - timebox: <minutes>
 - materials: <what you need>
 - difficulty: low|med|high
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: pd.M02 | name="Steps" -->
+module: pd.M02 | name="Steps"
 ## Steps
 1) ...
 2) ...
 3) ...
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: pd.M03 | name="Scoring / Rubric" -->
+module: pd.M03 | name="Scoring / Rubric"
 ## Scoring / Rubric
 - 0 = ...
 - 1 = ...
 - 2 = ...
 - 3 = ...
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: pd.M04 | name="Common Mistakes" -->
+module: pd.M04 | name="Common Mistakes"
 ## Common Mistakes
 - mistake → correction
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: pd.M05 | name="Variants" -->
+module: pd.M05 | name="Variants"
 ## Variants
 - easier:
 - harder:
 - constraint swap:
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: pd.M06 | name="Record" -->
+module: pd.M06 | name="Record"
 ## Record
 - date:
 - attempt #:
 - notes:
-<!-- /MODULE -->
+/module

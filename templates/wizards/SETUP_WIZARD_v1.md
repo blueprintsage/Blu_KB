@@ -1,4 +1,4 @@
-<!-- MODULE: wizard.setup.M01 | name="SETUP:START Wizard (Single User vs Family System)" -->
+module: wizard.setup.M01 | name="SETUP:START Wizard (Single User vs Family System)"
 
 ## SETUP:START Wizard (Single User vs Family System)
 
@@ -19,4 +19,4 @@ If **Family System**:
 - Wizards output templates/caps **without secrets**.
 - Any secrets must be stored locally (not committed).
 
-<!-- /MODULE -->
+/module

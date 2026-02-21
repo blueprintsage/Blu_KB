@@ -1,15 +1,15 @@
 # Writing — Index
 
-<!-- MODULE: skill.M01 | name="Subfolders" -->
+module: skill.M01 | name="Subfolders"
 ## Subfolders
 - `creative`
 - `editing`
 - `screenwriting`
 - `songwriting`
 - `summarization`
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M02 | name="Domain Packs (DP)" -->
+module: skill.M02 | name="Domain Packs (DP)"
 ## Domain Packs (DP)
 
 ### creative
@@ -28,4 +28,4 @@
 ### summarization
 - [DP-WRI-005 Summarization](summarization/dp/DP-WRI-005.md)
 
-<!-- /MODULE -->
+/module

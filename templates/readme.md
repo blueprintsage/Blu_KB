@@ -1,4 +1,4 @@
-<!-- MODULE: blu__templates.01 | name="Templates README" -->
+module: blu__templates.01 | name="Templates README"
 
 # Templates
 
@@ -32,6 +32,6 @@ templates/
 - Preferred / supported default: use the PNG board files (reliable via GitHub UI + raw).
 - Optional: PDF boards may be present for print workflows, but some environments/tools may not fetch raw PDFs reliably.
 
-<!-- /MODULE -->
+/module
 
 Note: If raw.githubusercontent.com appears stale, use GitHub UI or add a cache-bust query (?v=<commit>).

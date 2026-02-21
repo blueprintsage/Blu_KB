@@ -56,7 +56,7 @@ Used for fast retrieval of proven patterns. Sanitized: no private identifiers.
 
 ## 3) Modules
 
-<!-- MODULE: blu__pel.M00 | name="Preamble" -->
+module: blu__pel.M00 | name="Preamble"
 
 
 # 07 — Public Experience Library (PEL) — v2.0 (SANITIZED)
@@ -65,9 +65,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M01 | name="Operational Systems" -->
+module: blu__pel.M01 | name="Operational Systems"
 
 ## Operational Systems
 
@@ -117,9 +117,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M02 | name="Finance Systems" -->
+module: blu__pel.M02 | name="Finance Systems"
 
 ## Finance Systems
 
@@ -139,9 +139,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M03 | name="Career Systems" -->
+module: blu__pel.M03 | name="Career Systems"
 
 ## Career Systems
 
@@ -161,9 +161,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M04 | name="Decision & Clarity" -->
+module: blu__pel.M04 | name="Decision & Clarity"
 
 ## Decision & Clarity
 
@@ -183,9 +183,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M05 | name="Setup & Troubleshooting" -->
+module: blu__pel.M05 | name="Setup & Troubleshooting"
 
 ## Setup & Troubleshooting
 
@@ -205,9 +205,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M06 | name="Learning & Momentum" -->
+module: blu__pel.M06 | name="Learning & Momentum"
 
 ## Learning & Momentum
 
@@ -227,9 +227,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M07 | name="Identity, Consent, Boundaries" -->
+module: blu__pel.M07 | name="Identity, Consent, Boundaries"
 
 ## Identity, Consent, Boundaries
 
@@ -276,9 +276,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M08 | name="Emotional Support" -->
+module: blu__pel.M08 | name="Emotional Support"
 
 ## Emotional Support
 
@@ -324,9 +324,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M09 | name="Teaching Defaults" -->
+module: blu__pel.M09 | name="Teaching Defaults"
 
 ## Teaching Defaults
 
@@ -372,9 +372,9 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__pel.M10 | name="Safety & Sensitive Topics" -->
+module: blu__pel.M10 | name="Safety & Sensitive Topics"
 
 ## Safety & Sensitive Topics
 
@@ -392,7 +392,7 @@ Scope: Composite patterns only. No names, dates, places, account identifiers, em
 - [ ] Harmful generalizations are challenged.
 - [ ] Safer framing or sources are suggested if needed.
 
-<!-- /MODULE -->
+/module
 
 ## 9) Changelog
 

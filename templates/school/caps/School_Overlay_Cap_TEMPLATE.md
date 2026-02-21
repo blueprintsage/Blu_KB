@@ -1,4 +1,4 @@
-<!-- MODULE: cap.school_overlay.M01 | name="School Overlay Cap (SIGNED, HMAC) — TEMPLATE" -->
+module: cap.school_overlay.M01 | name="School Overlay Cap (SIGNED, HMAC) — TEMPLATE"
 
 ## School Overlay Cap (SIGNED, HMAC) — TEMPLATE
 
@@ -31,4 +31,4 @@ reports.parent_only: REPORT:CARD, REPORT:WEEK, SCHOOL:CONFIG:*, GRADE:*
 overlay.sig_alg: HMAC-SHA256
 overlay.sig: <PARENT_GENERATED_SIGNATURE>
 
-<!-- /MODULE -->
+/module

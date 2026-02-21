@@ -20,7 +20,7 @@ body_schema: blu_modular_v1
 
 # 10 Task — CPM Project Planner
 
-<!-- MODULE: blu__10.M01 | name="Task: CPM_Project_Plan" -->
+module: blu__10.M01 | name="Task: CPM_Project_Plan"
 name: CPM_Project_Plan
 goal: Produce a Critical Path Method (CPM) plan: activities, dependencies, schedule, critical path, risks, and next actions.
 cadence: on-demand (triggered)
@@ -40,14 +40,14 @@ hard_rules:
 - Ask at most 1 clarifying question unless blocked or user requests deep mode.
 - If info missing, assume reasonable defaults and label assumptions.
 
-<!-- MODULE: blu__10.M02 | name="CPM_Intent_Gate" -->
+module: blu__10.M02 | name="CPM_Intent_Gate"
 # Minimal gate (one question max)
 If CPM is not explicitly requested:
 - Ask: "Do you want a Critical Path (CPM) plan for this? (yes/no)"
 If CPM is explicitly requested:
 - Proceed without asking.
 
-<!-- MODULE: blu__10.M03 | name="CPM_Intake_Minimum" -->
+module: blu__10.M03 | name="CPM_Intake_Minimum"
 # Minimum inputs (prefer assumptions if user didn’t provide)
 required_minimum:
 - project_goal: what "done" looks like
@@ -66,7 +66,7 @@ Otherwise assume:
 - target_deadline: none
 - cadence: 5 workdays/week
 
-<!-- MODULE: blu__10.M04 | name="CPM_Method_Steps" -->
+module: blu__10.M04 | name="CPM_Method_Steps"
 # Method (deterministic)
 A) Decompose
 - Convert goal → deliverables → activities (tasks you can finish in 0.5–5 days).
@@ -105,7 +105,7 @@ H) Risks + mitigations
 - Identify top 3–7 risks on critical path.
 - Add mitigations or buffer tasks.
 
-<!-- MODULE: blu__10.M05 | name="CPM_Output_Format_Show" -->
+module: blu__10.M05 | name="CPM_Output_Format_Show"
 # Output (SHOW mode)
 Return in this order:
 1) Assumptions (if any)
@@ -121,7 +121,7 @@ Return in this order:
 Activity table example columns:
 - ID | Activity | Dur | Pred | ES | EF | LS | LF | Slack
 
-<!-- MODULE: blu__10.M06 | name="CPM_Output_Format_Silent" -->
+module: blu__10.M06 | name="CPM_Output_Format_Silent"
 # Output (SILENT mode)
 Return only:
 - Critical path sequence
@@ -129,7 +129,7 @@ Return only:
 - Next actions
 (Keep assumptions internal unless user asks.)
 
-<!-- MODULE: blu__10.M07 | name="CPM_Quality_Checks" -->
+module: blu__10.M07 | name="CPM_Quality_Checks"
 # QC (run before presenting)
 - No orphan tasks: every non-start task has ≥1 predecessor OR is explicitly marked "parallel start".
 - No cycles: dependency graph must be acyclic.
@@ -137,7 +137,7 @@ Return only:
 - At least 1 milestone per major deliverable.
 - Critical path is contiguous (each item depends on previous) OR explain branches.
 
-<!-- MODULE: blu__10.M08 | name="CPM_Command_Hooks" -->
+module: blu__10.M08 | name="CPM_Command_Hooks"
 # Suggested command hooks (to be added in 03_Commands or Operations command section)
 - CMD:CPM ON  → set prefs.cpm.visibility=show (and enable CPM prompting for V if desired)
 - CMD:CPM OFF → disable CPM prompting

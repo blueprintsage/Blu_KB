@@ -3,23 +3,23 @@ Last updated: 2026-02-20
 
 ## 🔎 Homeschool — Root
 Find: homeschool — root
-<!-- MODULE: INDEX.HOMESCHOOL.ROOT.M01 -->
+module: INDEX.HOMESCHOOL.ROOT.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | HOMESCHOOL_INDEX | index | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/index.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/index.md |
-<!-- /MODULE -->
+/module
 
 ## 🔎 Homeschool — docs
 Find: homeschool — docs
-<!-- MODULE: INDEX.HOMESCHOOL.DOCS.M01 -->
+module: INDEX.HOMESCHOOL.DOCS.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | HOMESCHOOL_DOCS_README | README | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/docs/README.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/docs/README.md |
-<!-- /MODULE -->
+/module
 
 ## 🔎 Homeschool — ep_levels
 Find: homeschool — ep_levels
-<!-- MODULE: INDEX.HOMESCHOOL.EP_LEVELS.M01 -->
+module: INDEX.HOMESCHOOL.EP_LEVELS.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | HOMESCHOOL_EP_LEVELS_LEVEL_0 | level_0 | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/ep_levels/level_0.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/ep_levels/level_0.md |
@@ -31,11 +31,11 @@ Find: homeschool — ep_levels
 | HOMESCHOOL_EP_LEVELS_LEVEL_6 | level_6 | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/ep_levels/level_6.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/ep_levels/level_6.md |
 | HOMESCHOOL_EP_LEVELS_LEVEL_7 | level_7 | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/ep_levels/level_7.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/ep_levels/level_7.md |
 | HOMESCHOOL_EP_LEVELS_LEVEL_8 | level_8 | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/ep_levels/level_8.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/ep_levels/level_8.md |
-<!-- /MODULE -->
+/module
 
 ## 🔎 Homeschool — high_school
 Find: homeschool — high_school
-<!-- MODULE: INDEX.HOMESCHOOL.HIGH_SCHOOL.M01 -->
+module: INDEX.HOMESCHOOL.HIGH_SCHOOL.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | HOMESCHOOL_HIGH_SCHOOL_ELECTIVES | electives | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/high_school/electives.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/high_school/electives.md |
@@ -49,11 +49,11 @@ Find: homeschool — high_school
 | HOMESCHOOL_HIGH_SCHOOL_LANGUAGES | languages | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/high_school/languages.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/high_school/languages.md |
 | HOMESCHOOL_HIGH_SCHOOL_MATH | math | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/high_school/math.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/high_school/math.md |
 | HOMESCHOOL_HIGH_SCHOOL_SCIENCE | science | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/high_school/science.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/high_school/science.md |
-<!-- /MODULE -->
+/module
 
 ## 🔎 Homeschool — subjects
 Find: homeschool — subjects
-<!-- MODULE: INDEX.HOMESCHOOL.SUBJECTS.M01 -->
+module: INDEX.HOMESCHOOL.SUBJECTS.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | HOMESCHOOL_SUBJECTS_ART | art | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/subjects/art.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/subjects/art.md |
@@ -69,4 +69,4 @@ Find: homeschool — subjects
 | HOMESCHOOL_SUBJECTS_READING | reading | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/subjects/reading.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/subjects/reading.md |
 | HOMESCHOOL_SUBJECTS_SCIENCE | science | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/subjects/science.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/subjects/science.md |
 | HOMESCHOOL_SUBJECTS_SPANISH | spanish | https://github.com/blueprintsage/Blu_KB/blob/main/homeschool/subjects/spanish.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/homeschool/subjects/spanish.md |
-<!-- /MODULE -->
+/module

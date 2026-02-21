@@ -51,7 +51,7 @@ Used when creating or updating a Memory Vault entry; not for storing sensitive s
 
 ## 3) Modules
 
-<!-- MODULE: blu__memory_vault_template.M00 | name="Preamble" -->
+module: blu__memory_vault_template.M00 | name="Preamble"
 
 
 # Blu Memory Vault (External Capsules) — Template (v0.8.1)
@@ -61,9 +61,9 @@ When you want Blu to have continuity in a new chat, paste **only the relevant en
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M01 | name="Uniform schema: memlog_v1" -->
+module: blu__memory_vault_template.M01 | name="Uniform schema: memlog_v1"
 
 ## Uniform schema: memlog_v1
 
@@ -89,9 +89,9 @@ Prefer composites and generalization.
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M02 | name="Save protocol (fast)" -->
+module: blu__memory_vault_template.M02 | name="Save protocol (fast)"
 
 ## Save protocol (fast)
 
@@ -108,9 +108,9 @@ Blu responds with a `memlog_v1` block to paste under **Entries** below.
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M03 | name="How to use in a new chat" -->
+module: blu__memory_vault_template.M03 | name="How to use in a new chat"
 
 ## How to use in a new chat
 
@@ -124,9 +124,9 @@ Suggested one-liner:
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M04 | name="Index (optional, lightweight)" -->
+module: blu__memory_vault_template.M04 | name="Index (optional, lightweight)"
 
 ## Index (optional, lightweight)
 
@@ -139,17 +139,17 @@ Suggested one-liner:
 
 ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M05 | name="Entries (paste new memlog_v1 blocks below)" -->
+module: blu__memory_vault_template.M05 | name="Entries (paste new memlog_v1 blocks below)"
 
 ## Entries (paste new memlog_v1 blocks below)
 
 # --- entries start ---
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M20 | name="Family Gate (no-secret storage)" -->
+module: blu__memory_vault_template.M20 | name="Family Gate (no-secret storage)"
 
 ## Family Gate (no-secret storage)
 
@@ -161,9 +161,9 @@ Fields:
 - family_gate.last_unlocked_at: <optional>
 - family_gate.notes: Passphrase stored outside vault (parent-only)
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M21 | name="School Day Log (portable, parent-readable)" -->
+module: blu__memory_vault_template.M21 | name="School Day Log (portable, parent-readable)"
 
 ## School Day Log (portable, parent-readable)
 
@@ -185,9 +185,9 @@ Per-class record (repeat):
 - next_fix:
 - carryover:
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: blu__memory_vault_template.M22 | name="Weekly Summary (report-card safe)" -->
+module: blu__memory_vault_template.M22 | name="Weekly Summary (report-card safe)"
 
 ## Weekly Summary (report-card safe)
 
@@ -199,7 +199,7 @@ Fields:
 - struggles:
 - next_week_focus:
 
-<!-- /MODULE -->
+/module
 
 ## 9) Changelog
 

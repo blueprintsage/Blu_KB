@@ -1,4 +1,4 @@
-<!-- MODULE: templates.school.copypasta.M01 | name="HS Class Paste (student) — copy/paste into chat" -->
+module: templates.school.copypasta.M01 | name="HS Class Paste (student) — copy/paste into chat"
 
 ## HS Class Paste (student)
 
@@ -15,4 +15,4 @@ What I need from Blu:
 - [ ] Give an exit ticket at :44
 - [ ] Grade my answers and explain deductions (-2 per incorrect)
 
-<!-- /MODULE -->
+/module

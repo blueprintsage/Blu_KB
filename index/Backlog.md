@@ -815,10 +815,10 @@ Prompt skeleton:
 
 ---
 
-<!-- MODULE: bl.M99 | name="Maintenance" -->
+module: bl.M99 | name="Maintenance"
 ## Maintenance
 - Canonical source: `index/Backlog.md`
 - Move items to `ACTIVE` when started; keep as simple list.
-<!-- /MODULE -->
+/module
 
 *Last updated:* 2026-02-15

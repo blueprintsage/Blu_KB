@@ -1,4 +1,4 @@
-<!-- MODULE: cap.parent_private.M01 | name="Parent Private Cap (SECRET) — TEMPLATE" -->
+module: cap.parent_private.M01 | name="Parent Private Cap (SECRET) — TEMPLATE"
 
 ## Parent Private Cap (SECRET) — TEMPLATE
 
@@ -11,4 +11,4 @@ hmac.sig_alg: HMAC-SHA256
 hmac.key_id: <key_id>
 hmac.key_material: <STORE_OUTSIDE_REPO>   # DO NOT COMMIT
 
-<!-- /MODULE -->
+/module

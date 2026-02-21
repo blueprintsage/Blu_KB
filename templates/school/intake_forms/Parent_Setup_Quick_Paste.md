@@ -1,4 +1,4 @@
-<!-- MODULE: templates.school.copypasta.M02 | name="Parent Setup (1 kid) — quick paste" -->
+module: templates.school.copypasta.M02 | name="Parent Setup (1 kid) — quick paste"
 
 ## Parent Setup (1 kid) — quick paste
 
@@ -15,4 +15,4 @@
 4) Each class:
 - Student uses “HS Class Paste (student)” template.
 
-<!-- /MODULE -->
+/module

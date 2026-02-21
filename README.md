@@ -5,7 +5,7 @@ No YAML front matter on purpose (Notepad++ copy/paste friendliness).
 
 # Blu_KB — Repo Canon (Templates • Skills • PEL • Homeschool Index)
 
-<!-- MODULE: repo.M00 | name="Scope Lock" -->
+module: repo.M00 | name="Scope Lock"
 ## Scope Lock (hard boundary)
 
 This repo contains **canon, reusable knowledge** and **templates** for Blu (repo-first).
@@ -24,10 +24,10 @@ This repo contains **canon, reusable knowledge** and **templates** for Blu (repo
 - Anything “private runtime state” for a household
 
 **Privacy rule:** Repo stays safe to share publicly. Household data lives local-only.
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M01 | name="Quick Start" -->
+module: repo.M01 | name="Quick Start"
 ## Quick Start
 
 - Browse repo to find:
@@ -40,10 +40,10 @@ This repo contains **canon, reusable knowledge** and **templates** for Blu (repo
 Notes:
 - Homeschool content here is an **index + planning layer** (links). Curriculum remains on the source sites.
 - If using SCHOOL Mode with a family, keep logs/keys in a local `family_private/` folder (gitignored).
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M02 | name="Directory Layout (canon)" -->
+module: repo.M02 | name="Directory Layout (canon)"
 ## Directory Layout (canon)
 
 ```
@@ -92,10 +92,10 @@ Notes:
 /07_Teaching.md
 ```
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M03 | name="Naming Conventions" -->
+module: repo.M03 | name="Naming Conventions"
 ## Naming Conventions
 
 ### Capsule IDs (preferred)
@@ -112,10 +112,10 @@ Notes:
 - Video refs: `VID-<THEME>-####.(mp4|mov|gif)`
 - Optional metadata sidecar: same name + `.yml` (template provided)
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M04 | name="Homeschool Index Rules (no curriculum copying)" -->
+module: repo.M04 | name="Homeschool Index Rules (no curriculum copying)"
 ## Homeschool Index Rules (no curriculum copying)
 
 - `/homeschool/` is a **link index + planning layer**.
@@ -126,10 +126,10 @@ Notes:
   - Donate/support link when available
 
 Recommended: Put parent-facing setup docs under `/homeschool/docs/`.
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M05 | name="Git Hygiene / Private Data" -->
+module: repo.M05 | name="Git Hygiene / Private Data"
 ## Git Hygiene / Private Data
 
 Do not commit household runtime files. Suggested local-only folder:
@@ -143,10 +143,10 @@ Add patterns to `.gitignore` (example):
 - `*_Log_Current.md`
 - `*_Parent_Private*.md`
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M06 | name="GitHub Raw Cache Note" -->
+module: repo.M06 | name="GitHub Raw Cache Note"
 ## GitHub Raw Cache Note
 
 Sometimes `raw.githubusercontent.com` can appear stale.
@@ -154,18 +154,18 @@ If a raw file looks wrong:
 - open the GitHub UI version to confirm, and/or
 - add a cache-bust query (e.g., `?v=<commit>`).
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: repo.M09 | name="Bootstrap Checklist" -->
+module: repo.M09 | name="Bootstrap Checklist"
 ## Bootstrap Checklist
 
 - [ ] Keep canon knowledge in repo; keep private family state local-only
-- [ ] Use module blocks consistently (`<!-- MODULE ... -->` / `<!-- /MODULE -->`)
+- [ ] Use module blocks consistently (`module: ...` / `/module`)
 - [ ] Keep `homeschool/` as an index (links + notes), not copied curriculum
 - [ ] Ensure every DP/PD is discoverable from a local index
 - [ ] Prefer deprecate over delete: `INTAKE → DRAFT → ACTIVE → DEPRECATED`
 
-<!-- /MODULE -->
+/module
 
 *Last updated:* 2026-02-19

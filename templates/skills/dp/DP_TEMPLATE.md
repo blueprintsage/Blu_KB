@@ -2,7 +2,7 @@
 
 # DP-<SKILL>-<SUB>-### — <Title>
 
-<!-- MODULE: dp.M00 | name="Placeholder rule" -->
+module: dp.M00 | name="Placeholder rule"
 ## Placeholder rule
 No orphan headings. Every heading must have at least **one** non-heading line beneath it.
 
@@ -17,47 +17,47 @@ Use one of these:
 **Option C (comment marker)**
 <!-- placeholder: <what belongs here> -->
 
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M01 | name="Goal" -->
+module: dp.M01 | name="Goal"
 ## Goal
 > TODO (placeholder): What the reader will be able to do after reading this.
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M02 | name="When to use" -->
+module: dp.M02 | name="When to use"
 ## When to use
 > TODO (placeholder): Situations / triggers / prerequisites.
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M03 | name="Workflow" -->
+module: dp.M03 | name="Workflow"
 ## Workflow
 1) ...
 2) ...
 3) ...
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M04 | name="Key Patterns" -->
+module: dp.M04 | name="Key Patterns"
 ## Key Patterns
 - Pattern name → what it solves
 - Pattern name → what it solves
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M05 | name="Common Failure Modes" -->
+module: dp.M05 | name="Common Failure Modes"
 ## Common Failure Modes
 - Symptom → likely cause → fix
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M06 | name="Examples" -->
+module: dp.M06 | name="Examples"
 ## Examples
 > TODO (placeholder): Keep small; link out if large.
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M07 | name="Checks" -->
+module: dp.M07 | name="Checks"
 ## Checks
 - How to verify success (quick tests)
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: dp.M08 | name="Next" -->
+module: dp.M08 | name="Next"
 ## Next
 - Suggested PDs or follow-on DPs
-<!-- /MODULE -->
+/module

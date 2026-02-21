@@ -1,4 +1,4 @@
-<!-- MODULE: school.log.current.M01 | name="Student School Log (Current) — Template" -->
+module: school.log.current.M01 | name="Student School Log (Current) — Template"
 
 # Student School Log (Current) — Template
 
@@ -41,10 +41,10 @@ runtime.loaded: true
 runtime.active_subject: <blank>
 runtime.last_saved_at: <optional>
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: school.log.current.M02 | name="Today" -->
+module: school.log.current.M02 | name="Today"
 
 ## Today
 
@@ -54,10 +54,10 @@ today.school_complete: false
 today.completed_at: <optional>
 today.notes: <optional>
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: school.log.current.M10 | name="Class Records (generic blocks)" -->
+module: school.log.current.M10 | name="Class Records (generic blocks)"
 
 ## Class Records (Today)
 
@@ -171,10 +171,10 @@ deductions:
 next_fix:
 - <...>
 
-<!-- /MODULE -->
+/module
 
 
-<!-- MODULE: school.log.current.M90 | name="Auto-Increment Rule" -->
+module: school.log.current.M90 | name="Auto-Increment Rule"
 
 ## Auto-Increment Rule
 
@@ -190,4 +190,4 @@ On completion of the anchor class (`school.day_ends_on`):
 - set `today.school_complete=true`
 - set `today.completed_at=<time optional>
 
-<!-- /MODULE -->
+/module

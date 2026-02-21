@@ -1,4 +1,4 @@
-<!-- MODULE: docs.school.M01 | name="What SCHOOL Mode Does (Parent Explanation)" -->
+module: docs.school.M01 | name="What SCHOOL Mode Does (Parent Explanation)"
 
 ## What SCHOOL Mode Does (Parent Explanation)
 
@@ -25,4 +25,4 @@ Homeschool laws vary by state/region. Check local regulations before relying on 
 This repo is an index/planning layer that points to the free curriculum hosted by Easy Peasy / All-in-One Homeschool. If you use it, please consider supporting the creator and site costs via the project’s About/Donate page (it includes donation options for Lee and for site expenses): https://allinonehomeschool.com/about/
 
 
-<!-- /MODULE -->
+/module
