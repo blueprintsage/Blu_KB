@@ -1,13 +1,13 @@
 # Art — Index
 
-<!-- MODULE: skill.M01 | name="Subfolders" -->
+module: skill.M01 | name="Subfolders"
 ## Subfolders
 - `comics`
 - `image_gen`
 - `video_gen`
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M02 | name="Domain Packs (DP)" -->
+module: skill.M02 | name="Domain Packs (DP)"
 ## Domain Packs (DP)
 
 ### comics
@@ -25,4 +25,4 @@
 - [DP-VID-001 Video Preproduction](video_gen/dp/DP-VID-001.md)
 - [DP-VID-002 Text-to-Video Prompting & Iteration](video_gen/dp/DP-VID-002.md)
 
-<!-- /MODULE -->
+/module

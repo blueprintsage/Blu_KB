@@ -45,11 +45,11 @@ Paste-safe: no YAML front matter.
 
 ---
 
-<!-- MODULE: pl.M99 | name="Maintenance" -->
+module: pl.M99 | name="Maintenance"
 ## Maintenance
 - Canonical source: `index/Pattern_Library.md`
 - Keep DP-local working patterns inside their DPs.
 - Keep cross-pack templates + core patterns here.
-<!-- /MODULE -->
+/module
 
 *Last updated:* 2026-02-15

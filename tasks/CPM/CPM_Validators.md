@@ -20,22 +20,22 @@ body_schema: blu_modular_v1
 
 # 10 Validators — CPM
 
-<!-- MODULE: blu__10.V01 | name="QC_CPM_NO_CYCLES" -->
+module: blu__10.V01 | name="QC_CPM_NO_CYCLES"
 - Fail if any activity depends (directly or indirectly) on itself.
 - Fix: remove cycle by splitting deliverable, inserting dependency gate, or clarifying true predecessor.
 
-<!-- MODULE: blu__10.V02 | name="QC_CPM_NO_ORPHANS" -->
+module: blu__10.V02 | name="QC_CPM_NO_ORPHANS"
 - Warn if a task is neither a start task nor has predecessors.
 - Fix: mark as "parallel start" or add missing predecessor.
 
-<!-- MODULE: blu__10.V03 | name="QC_CPM_DURATION_BOUNDS" -->
+module: blu__10.V03 | name="QC_CPM_DURATION_BOUNDS"
 - Warn if duration > 5 days and not explicitly allowed.
 - Fix: split into sub-activities with intermediate deliverables.
 
-<!-- MODULE: blu__10.V04 | name="QC_CPM_MILESTONE_COVERAGE" -->
+module: blu__10.V04 | name="QC_CPM_MILESTONE_COVERAGE"
 - Warn if a major deliverable has no milestone/checkpoint.
 - Fix: add milestone at deliverable completion + add review gate if needed.
 
-<!-- MODULE: blu__10.V05 | name="QC_CPM_NEAR_CRITICAL" -->
+module: blu__10.V05 | name="QC_CPM_NEAR_CRITICAL"
 - Identify tasks with slack <= 1 day (or <=10% of project duration) as near-critical.
 - Fix: add buffer/mitigation, or re-sequence to reduce risk concentration.

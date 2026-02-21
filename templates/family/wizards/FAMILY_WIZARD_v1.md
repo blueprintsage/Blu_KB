@@ -1,4 +1,4 @@
-<!-- MODULE: wizard.family.M01 | name="FAMILY:SETUP Wizard (Non-school family system)" -->
+module: wizard.family.M01 | name="FAMILY:SETUP Wizard (Non-school family system)"
 
 ## FAMILY:SETUP Wizard (Non-school family system)
 
@@ -8,4 +8,4 @@ Outputs:
 - Family overlay (roles + optional parent gate)
 - Member caps (parent/kid)
 
-<!-- /MODULE -->
+/module

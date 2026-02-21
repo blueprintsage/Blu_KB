@@ -1,4 +1,4 @@
-<!-- MODULE: blu__school.M03 | name="School Cap Auto-Patch (Migration Contract) | status=active" -->
+module: blu__school.M03 | name="School Cap Auto-Patch (Migration Contract) | status=active"
 
 # School Cap Auto-Patch (Migration Contract)
 
@@ -51,4 +51,4 @@ When a patch is applied:
 - Print a short note: “Patched (add-only): <fields added>”
 - Prefer: output as **downloadable markdown** files.
 
-<!-- /MODULE -->
+/module

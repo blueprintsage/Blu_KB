@@ -1,4 +1,4 @@
-<!-- MODULE: blu__templates.03 | name="Template Naming Rules" -->
+module: blu__templates.03 | name="Template Naming Rules"
 
 # Naming Rules
 
@@ -17,4 +17,4 @@ Examples:
 - Use `_300dpi` suffix for raster exports.
 - Prefer `v1`, `v2` bumps over ambiguous “final/final2”.
 
-<!-- /MODULE -->
+/module

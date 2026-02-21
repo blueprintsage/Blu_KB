@@ -1,4 +1,4 @@
-<!-- MODULE: blu__school_parent.M01 | name="Parent GOD Mode Key (Local-only Cap) — Template | status=active" -->
+module: blu__school_parent.M01 | name="Parent GOD Mode Key (Local-only Cap) — Template | status=active"
 
 # Parent GOD Mode Key (Local-only Cap) — Template
 
@@ -60,4 +60,4 @@ Allowed without unlock (student-safe):
 ### `PARENT:LOCK`
 - set `runtime.parent_unlocked=false`
 
-<!-- /MODULE -->
+/module

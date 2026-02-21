@@ -1,4 +1,4 @@
-<!-- MODULE: cap.student.M01 | name="Student Cap (per child) — TEMPLATE" -->
+module: cap.student.M01 | name="Student Cap (per child) — TEMPLATE"
 
 ## Student Cap (per child) — TEMPLATE
 
@@ -11,4 +11,4 @@ school.current_day: <ASK_AT_SCHOOL_START>
 subjects.core: <Subject 1> | <Subject 2> | <Subject 3> | <Subject 4> | <Subject 5>
 subjects.elective: <Elective A> | <Elective B>
 
-<!-- /MODULE -->
+/module

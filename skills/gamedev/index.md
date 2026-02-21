@@ -1,14 +1,14 @@
 # Gamedev — Index
 
-<!-- MODULE: skill.M01 | name="Subfolders" -->
+module: skill.M01 | name="Subfolders"
 ## Subfolders
 - `engines/godot`
 - `engines/unity`
 - `engines/unreal`
 - `gdd`
-<!-- /MODULE -->
+/module
 
-<!-- MODULE: skill.M02 | name="Domain Packs (DP)" -->
+module: skill.M02 | name="Domain Packs (DP)"
 ## Domain Packs (DP)
 
 ### engines/godot
@@ -23,4 +23,4 @@
 ### gdd
 - [DP-GDD-001 Game Design Docs](gdd/dp/DP-GDD-001.md)
 
-<!-- /MODULE -->
+/module

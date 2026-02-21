@@ -1,8 +1,13 @@
-<!-- MODULE: blu__templates.02 | name="Template Index" -->
+module: blu__templates.02 | name="Template Index"
 
 # Template Index
 
 Add an entry for every template you expect to reuse.
+
+## Meta
+- Repo fetch rules — `templates/_meta/repo_fetch_rules.md`
+- Naming rules — `templates/_meta/naming_rules.md`
+- This index — `templates/_meta/template_index.md`
 
 ## Docs
 - Module wrapper — `templates/docs/module_block.md`
@@ -20,4 +25,4 @@ Add an entry for every template you expect to reuse.
 - Comic board 11x17 (reference) — `templates/art/comics/boards/comic_board_11x17_blueline_reference_v1.pdf`
 - Comic board 11x17 (reference, 300dpi) — `templates/art/comics/boards/comic_board_11x17_blueline_reference_v1_300dpi.png`
 
-<!-- /MODULE -->
+/module

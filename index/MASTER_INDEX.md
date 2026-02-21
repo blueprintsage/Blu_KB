@@ -3,19 +3,20 @@ Last updated: 2026-02-20
 
 ## 🔎 Quick Start
 Find: quick start
-<!-- MODULE: INDEX.MASTER.QUICKSTART.M00 -->
+module: INDEX.MASTER.QUICKSTART.M00
 | alias | purpose | open | raw |
 |---|---|---|---|
 | README | Repo scope + rules | https://github.com/blueprintsage/Blu_KB/blob/main/README.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/README.md |
+| HEALTHCHECK | Quick repo ping (UI + raw) | https://github.com/blueprintsage/Blu_KB/blob/main/index/HEALTHCHECK.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/HEALTHCHECK.md |
 | GLOBAL_CONVENTIONS | index/Global_Conventions.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Global_Conventions.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Global_Conventions.md |
 | PATTERN_LIBRARY | index/Pattern_Library.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Pattern_Library.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Pattern_Library.md |
 | BACKLOG | index/Backlog.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/Backlog.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/Backlog.md |
 | ASSETS_CATALOG | index/ASSET_INDEX.md | https://github.com/blueprintsage/Blu_KB/blob/main/index/ASSET_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ASSET_INDEX.md |
-<!-- /MODULE -->
+/module
 
 ## 🔎 Sub-Indexes
 Find: sub-indexes
-<!-- MODULE: INDEX.MASTER.SUBINDEX.M01 -->
+module: INDEX.MASTER.SUBINDEX.M01
 | alias | purpose | open | raw |
 |---|---|---|---|
 | INDEX_MASTER | Master index | https://github.com/blueprintsage/Blu_KB/blob/main/index/MASTER_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/MASTER_INDEX.md |
@@ -29,4 +30,4 @@ Find: sub-indexes
 | INDEX_ENGINE_PATCHES | Engine patches map | https://github.com/blueprintsage/Blu_KB/blob/main/index/ENGINE_PATCHES_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ENGINE_PATCHES_INDEX.md |
 | INDEX_ABOUT | About map | https://github.com/blueprintsage/Blu_KB/blob/main/index/ABOUT_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ABOUT_INDEX.md |
 | INDEX_ASSETS | Assets catalog | https://github.com/blueprintsage/Blu_KB/blob/main/index/ASSET_INDEX.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/index/ASSET_INDEX.md |
-<!-- /MODULE -->
+/module

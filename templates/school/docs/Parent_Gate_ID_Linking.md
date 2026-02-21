@@ -1,4 +1,4 @@
-<!-- MODULE: blu__school_docs.M03 | name="Parent Gate ID (How Linking Works) | status=active" -->
+module: blu__school_docs.M03 | name="Parent Gate ID (How Linking Works) | status=active"
 
 # Parent Gate ID (How Linking Works)
 
@@ -19,4 +19,4 @@ Blu allows parent-only commands only when:
 
 This makes rotation easy (change hash, keep the same ID) and avoids spreading hashes around.
 
-<!-- /MODULE -->
+/module
