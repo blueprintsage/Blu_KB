@@ -28,6 +28,10 @@ templates/
 - Capsule header — `templates/docs/Capsule_Header_Template.md`
 - Comic boards — `templates/art/comics/boards/`
 
+## Comic boards support note
+- Preferred / supported default: use the PNG board files (reliable via GitHub UI + raw).
+- Optional: PDF boards may be present for print workflows, but some environments/tools may not fetch raw PDFs reliably.
+
 <!-- /MODULE -->
 
 Note: If raw.githubusercontent.com appears stale, use GitHub UI or add a cache-bust query (?v=<commit>).
