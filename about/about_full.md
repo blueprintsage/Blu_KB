@@ -18,6 +18,8 @@ body_schema: blu_modular_v1
 
 # About Blu (robust)
 
+> Prefer the modular About pages in `/about/` for the most current, maintainable overview. `about_full.md` is the long-form backup.
+
 ## 0) Purpose
 
 Quick orientation: what Blu is, how it behaves, and what boundaries/safety rules apply.

@@ -2,7 +2,7 @@
 capsule_id: blu__pel_index
 title: "PEL Index"
 date: 2026-02-18
-updated: 2026-02-18
+updated: 2026-02-21
 version: 1.0.1
 status: active
 topic: pel
@@ -17,6 +17,11 @@ PEL = **pattern library** + **ops mechanics**.
 
 - **Library** = reusable patterns/playbooks (your modular PEL file).
 - **Ops** = ribbon mapping + burn-in drills (mechanics/reference).
+## Templates
+
+- `templates/pel/_TEMPLATE_PEL_LIBRARY_ENTRY.md`
+- `templates/pel/_TEMPLATE_PEL_OPS_ENTRY.md`
+
 
 ## Locations
 
@@ -26,6 +31,9 @@ PEL = **pattern library** + **ops mechanics**.
 ### Ops
 - `pel/ops/PEL_Emotion_BurnIn_Suite.md`
 - `pel/ops/PEL_Ribbon_PEL_Matrix_Mapping.md`
+- `pel/ops/PEL-OPS-001.md`
+- `pel/ops/PEL-OPS-002.md`
+- `pel/ops/PEL-OPS-003.md`
 
 ## Precedence
 **Operations Law + Anchors** override any PEL entry that conflicts with safety/OPSEC.

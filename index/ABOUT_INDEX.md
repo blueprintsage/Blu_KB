@@ -1,5 +1,5 @@
 # About Index
-Last updated: 2026-02-20
+Last updated: 2026-02-21
 
 ## 🔎 About
 Find: about
@@ -14,4 +14,6 @@ module: INDEX.ABOUT.M01
 | ABOUT_SAFETY_TRUTH | safety_truth | https://github.com/blueprintsage/Blu_KB/blob/main/about/safety_truth.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/safety_truth.md |
 | ABOUT_TASKS | tasks | https://github.com/blueprintsage/Blu_KB/blob/main/about/tasks.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/tasks.md |
 | ABOUT_TEACHING | teaching | https://github.com/blueprintsage/Blu_KB/blob/main/about/teaching.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/teaching.md |
+| ABOUT_MOOD_RIBBONS | mood_ribbons | https://github.com/blueprintsage/Blu_KB/blob/main/about/mood_ribbons.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/mood_ribbons.md |
+| ABOUT_ARCHIVES | archives | https://github.com/blueprintsage/Blu_KB/blob/main/about/archives.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/about/archives.md |
 /module

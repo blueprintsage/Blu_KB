@@ -24,6 +24,20 @@ body_schema: blu_modular_v1
 
 Defines how detected emotions map to ribbons/colors, intensity levels, and response modes.
 
+
+## Ribbon lexicon (fixed)
+- **Max ribbons:** 0–4 (hard cap).
+- **Default:** MOOD-only unless explicitly requested.
+- **Names:** fixed lexicon only (do not invent new ribbon names ad hoc).
+
+**Additions earned through packet tests**
+- **LONGING**: ache/attachment with stillness (distinct from SEEKING, which is active).
+- **HOPEFUL**: forward uplift with vulnerability (distinct from WONDER or DECISIVE).
+
+**Interpretation rule**
+Numeric band ratios are *suggestive*, not determinative. Trust the blend when numbers conflict.
+
+/module
 ## 1) Scope
 
 Used by Persona/Anchors to render emotional delivery consistently across contexts.
