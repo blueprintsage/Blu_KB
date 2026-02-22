@@ -26,10 +26,3 @@ visibility: shared
 - [ ] A reconcile step exists (what to confirm, when).
 - [ ] The system works even in a “bad week” (reduced effort mode defined).
 
----
-
-/module
-
-module: blu__pel.M03 | name="Career Systems"
-
-## Career Systems

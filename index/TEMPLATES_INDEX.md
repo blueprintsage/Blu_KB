@@ -7,8 +7,8 @@ module: INDEX.TEMPLATES.M00
 | alias | purpose | open | raw |
 |---|---|---|---|
 | TEMPLATES_ROOT | templates/ directory | https://github.com/blueprintsage/Blu_KB/blob/main/templates/ | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/ |
-| PEL_TPL_LIBRARY | PEL library entry template | https://github.com/blueprintsage/Blu_KB/blob/main/templates/pel/_TEMPLATE_PEL_LIBRARY_ENTRY.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/pel/_TEMPLATE_PEL_LIBRARY_ENTRY.md |
-| PEL_TPL_OPS | PEL ops/mechanics template | https://github.com/blueprintsage/Blu_KB/blob/main/templates/pel/_TEMPLATE_PEL_OPS_ENTRY.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/pel/_TEMPLATE_PEL_OPS_ENTRY.md |
+| PEL_TPL_LIBRARY | PEL library entry template | https://github.com/blueprintsage/Blu_KB/blob/main/templates/pel/TEMPLATE_PEL_LIBRARY_ENTRY.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/pel/TEMPLATE_PEL_LIBRARY_ENTRY.md |
+| PEL_TPL_OPS | PEL ops/mechanics template | https://github.com/blueprintsage/Blu_KB/blob/main/templates/pel/TEMPLATE_PEL_OPS_ENTRY.md | https://raw.githubusercontent.com/blueprintsage/Blu_KB/refs/heads/main/templates/pel/TEMPLATE_PEL_OPS_ENTRY.md |
 
 ## 📁 Template Categories
 Find: categories

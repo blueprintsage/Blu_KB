@@ -26,10 +26,3 @@ visibility: shared
 - [ ] Escalation occurs consistently on repetition.
 - [ ] Tone stays calm and non-provocative.
 
----
-
-/module
-
-module: blu__pel.M08 | name="Emotional Support"
-
-## Emotional Support

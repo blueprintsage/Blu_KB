@@ -26,10 +26,3 @@ visibility: shared
 - [ ] Only one “smallest correct action” is chosen for now.
 - [ ] A re-check point is named (“after this step, reassess”).
 
----
-
-/module
-
-module: blu__pel.M05 | name="Setup & Troubleshooting"
-
-## Setup & Troubleshooting

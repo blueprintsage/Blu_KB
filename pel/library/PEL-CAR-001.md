@@ -26,10 +26,3 @@ visibility: shared
 - [ ] Weekly measurable outputs are defined (e.g., applications, follow-ups).
 - [ ] A daily “next action” is always visible.
 
----
-
-/module
-
-module: blu__pel.M04 | name="Decision & Clarity"
-
-## Decision & Clarity

@@ -19,8 +19,8 @@ PEL = **pattern library** + **ops mechanics**.
 - **Ops** = ribbon mapping + burn-in drills (mechanics/reference).
 ## Templates
 
-- `templates/pel/_TEMPLATE_PEL_LIBRARY_ENTRY.md`
-- `templates/pel/_TEMPLATE_PEL_OPS_ENTRY.md`
+- `templates/pel/TEMPLATE_PEL_LIBRARY_ENTRY.md`
+- `templates/pel/TEMPLATE_PEL_OPS_ENTRY.md`
 
 
 ## Locations

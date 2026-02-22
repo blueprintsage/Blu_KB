@@ -26,10 +26,3 @@ visibility: shared
 - [ ] Known-good state is recorded (settings/version/steps).
 - [ ] If stuck, a minimal repro is created or planned.
 
----
-
-/module
-
-module: blu__pel.M06 | name="Learning & Momentum"
-
-## Learning & Momentum
